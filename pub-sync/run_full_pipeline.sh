@@ -98,5 +98,3 @@ echo ""
 echo "Usage for next run:"
 echo "  ./run_full_pipeline.sh [BIB_DIR] [CV_PATH]"
 echo "  Default: ./run_full_pipeline.sh ../../bib ../../CV_Michael_Katz.tex"
-
-# Made with Bob

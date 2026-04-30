@@ -228,5 +228,3 @@ print(f"\nExpected from CV: ~89-101 papers")
 print(f"Extracted: {total_papers} papers")
 if total_papers < 89:
     print(f"WARNING: Missing {89 - total_papers} papers!")
-
-# Made with Bob

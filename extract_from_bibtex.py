@@ -194,5 +194,3 @@ for year in sorted(papers_by_year.keys(), reverse=True):
 
 print(f"\nThis is the COMPLETE list from BibTeX (authoritative source)")
 print(f"Use this as the basis for both chronological and topic-based views")
-
-# Made with Bob

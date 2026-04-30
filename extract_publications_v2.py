@@ -221,5 +221,3 @@ print(f"\nCreated template publications.json")
 print(f"\nSummary:")
 print(f"- publications-full.json: {total_papers} papers (complete chronological list)")
 print(f"- publications.json: Template created (needs manual curation)")
-
-# Made with Bob

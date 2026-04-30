@@ -334,5 +334,3 @@ print(f"  Only in BibTeX: {len(only_bibtex)}")
 print(f"  In CV+HTML (not BibTeX): {len(in_cv_html)}")
 print(f"  In CV+BibTeX (not HTML): {len(in_cv_bibtex)}")
 print(f"  In HTML+BibTeX (not CV): {len(in_html_bibtex)}")
-
-# Made with Bob

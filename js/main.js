@@ -314,5 +314,3 @@ if (document.querySelector('#pub-search')) {
 }
 
 console.log('🚀 Michael Katz Portfolio - Loaded Successfully');
-
-// Made with Bob

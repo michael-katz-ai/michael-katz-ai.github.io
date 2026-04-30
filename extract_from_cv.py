@@ -222,5 +222,3 @@ for topic in publications_data["topics"]:
     print(f"\n{topic['title']}: {topic_total} papers")
     for subtopic in topic["subtopics"]:
         print(f"  - {subtopic['title']}: {len(subtopic['papers'])} papers")
-
-# Made with Bob

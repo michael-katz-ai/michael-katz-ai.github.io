@@ -184,5 +184,3 @@ with open(report_path, 'w') as f:
 print(f"\n{'='*80}")
 print(f"Detailed report saved to: {report_path}")
 print(f"{'='*80}")
-
-# Made with Bob
