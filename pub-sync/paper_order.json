@@ -1,0 +1,170 @@
+{
+  "paper_order": {
+    "LLMs for Planning and Neuro-Symbolic Reasoning": {
+      "Position": [
+        "katz-et-al-arxiv2025a",
+        "katz-et-al-icaps2026"
+      ],
+      "Thought of Search": [
+        "katz-et-al-neurips2024",
+        "cao-et-al-icaps2026",
+        "shlomi-et-al-aaai2025wslm4plan"
+      ],
+      "NL2PDDL": [
+        "oswald-et-al-icaps2024",
+        "oswald-et-al-iclr2026wsworldmodels",
+        "caglar-et-al-aaai2024"
+      ],
+      "NL2Policy": [
+        "silver-et-al-aaai2024",
+        "stein-et-al-icaps2026"
+      ],
+      "Benchmarking and fine-tuning": [
+        "katz-et-al-icaps2025wslm4plan",
+        "kokel-et-al-aaai2025",
+        "kokel-et-al-iclr2026",
+        "shirai-et-al-arxiv2025"
+      ]
+    },
+    "Multiple Solutions for Classical Planning": {
+      "Top-k/Top-quality Planning": [
+        "katz-et-al-icaps2018",
+        "katz-et-al-aaai2020",
+        "katz-sohrabi-icaps2022",
+        "katz-lee-ijcai2023",
+        "katz-lee-socs2023",
+        "lee-et-al-socs2023",
+        "katz-et-al-arxiv2024",
+        "katz-et-al-socs2024"
+      ],
+      "Diverse Planning": [
+        "katz-sohrabi-aaai2020",
+        "deharo-et-al-icaps2022",
+        "katz-et-al-aaai2022"
+      ]
+    },
+    "Theory and Practice of Classical Planning": {
+      "Abstractions": [
+        "katz-domshlak-icaps2007",
+        "katz-domshlak-icaps2008b",
+        "katz-domshlak-jair2008",
+        "katz-domshlak-icaps2009",
+        "domshlak-et-al-icaps2010",
+        "katz-domshlak-jair2010",
+        "bahumi-et-al-icaps2011wshdip",
+        "domshlak-et-al-aij2012",
+        "katz-et-al-icaps2012",
+        "katz-keyder-aaai2012"
+      ],
+      "Cost Partitioning": [
+        "katz-domshlak-icaps2008",
+        "katz-domshlak-aij2010",
+        "karpas-et-al-icaps2011"
+      ],
+      "Partially Satisfaction Planning": [
+        "katz-mirkis-ijcai2016",
+        "katz-et-al-icaps2019",
+        "speck-katz-aaai2021",
+        "katz-et-al-socs2022",
+        "katz-keyder-aaai2022",
+        "behnke-et-al-icaps2023"
+      ],
+      "Red-Black Planning": [
+        "katz-et-al-aaai2013",
+        "katz-et-al-icaps2013",
+        "katz-hoffmann-socs2013",
+        "alkhazraji-et-al-ipc2014",
+        "katz-hoffmann-icaps2014wshsdip",
+        "domshlak-et-al-aij2015",
+        "katz-aaai2019",
+        "fiser-et-al-ijcai2021"
+      ],
+      "Planner Selection": [
+        "ma-et-al-corr2018",
+        "sievers-et-al-aaai2019",
+        "ma-et-al-aaai2020",
+        "vatter-et-al-icaps2026"
+      ],
+      "Novelty": [
+        "katz-et-al-icaps2017",
+        "tuisov-katz-ijcai2021"
+      ],
+      "State Pruning Techniques (Symmetry": [
+        "domshlak-et-al-icaps2012",
+        "domshlak-et-al-icaps2013",
+        "shleyfman-et-al-aaai2015",
+        "sievers-et-al-aaai2015",
+        "sievers-et-al-ki2015",
+        "wehrle-et-al-ijcai2015",
+        "winterer-et-al-ijcai2016",
+        "sievers-et-al-socs2017",
+        "winterer-et-al-icaps2017",
+        "roeger-et-al-icaps2018",
+        "sievers-et-al-icaps2019",
+        "allen-et-al-icaps2026"
+      ],
+      "State Pruning Techniques": [
+        "domshlak-et-al-tr2015"
+      ],
+      "Partial Satisfaction Planning": [
+        "katz-hoffmann-ipc2014"
+      ]
+    },
+    "Planning and Reinforcement Learning": {
+      "Planning annotated RL (PaRL)": [
+        "lee-et-al-icaps2021wsprl",
+        "kokel-et-al-ijcai2023wsprl",
+        "rozek-et-al-icaps2024wsprl"
+      ],
+      "Action Models": [
+        "allen-et-al-ijcai2021",
+        "gehring-et-al-icaps2022",
+        "kokel-et-al-ijcai2023",
+        "sreedharan-katz-neurips2023"
+      ]
+    },
+    "Applications, Data, and AI Planning based solutions": {
+      "IBM Scenario Planning Advisor": [
+        "sohrabi-et-al-aaai2018",
+        "hassanzadeh-et-al-ijcai2019",
+        "feblowitz-et-al-aaai2021demo",
+        "katz-et-al-icaps2021wsfinplan"
+      ],
+      "Data & Tools": [
+        "muise-et-al-icaps2022systemdemos"
+      ],
+      "IPC Planners": [
+        "katz-et-al-ipc2018",
+        "katz-et-al-ipc2018b",
+        "katz-ipc2018",
+        "sievers-katz-ipc2018",
+        "ferber-et-al-ipc2023a",
+        "ferber-et-al-ipc2023b",
+        "ferber-et-al-ipc2023c",
+        "ferber-et-al-ipc2023d",
+        "ferber-et-al-ipc2023e",
+        "ferber-et-al-ipc2023f",
+        "ferber-et-al-ipc2023g"
+      ],
+      "Other Applications": [
+        "katz-et-al-aaai2018",
+        "katz-et-al-icaps2020",
+        "christen-et-al-core2022",
+        "christen-et-al-ecai2023",
+        "ananthakrishanan-et-al-aaai2026demo"
+      ],
+      "Data": [
+        "ferber-et-al-icml2019ws",
+        "katz-sievers-icaps2019wsipc",
+        "katz-sievers-icaps2019wsipc-b"
+      ]
+    }
+  },
+  "notes": [
+    "This file controls the order of papers within each subtopic.",
+    "Papers are listed by their BibTeX keys.",
+    "Reorder the keys in each array to change the display order.",
+    "Papers not listed will appear at the end in chronological order.",
+    "After editing, run: python3 format_website_json_v2.py katz_unified_deduplicated.jsonl publications_final.json"
+  ]
+}

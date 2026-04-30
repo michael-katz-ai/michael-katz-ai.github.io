@@ -1,0 +1,78 @@
+{
+  "add_to_cv": {
+    "Applications, Data, and AI Planning based solutions": {
+      "IPC Planners": [
+        "ferber-et-al-ipc2023a",
+        "ferber-et-al-ipc2023b",
+        "ferber-et-al-ipc2023c",
+        "ferber-et-al-ipc2023d",
+        "ferber-et-al-ipc2023e",
+        "ferber-et-al-ipc2023f",
+        "ferber-et-al-ipc2023g",
+        "katz-ipc2018",
+        "katz-et-al-ipc2018",
+        "katz-et-al-ipc2018b",
+        "sievers-katz-ipc2018",
+        "alkhazraji-et-al-ipc2014",
+        "katz-hoffmann-ipc2014"
+      ],
+      "Data & Tools": [
+        "muise-et-al-icaps2022systemdemos"
+      ]
+    },
+    "Theory and Practice of Classical Planning": {
+      "State Pruning Techniques (Symmetry & Partial Order Reduction) & Relevance Analysis" : [
+        "domshlak-et-al-tr2015"
+      ],
+      "Red-Black Planning": [
+        "katz-aaai2019"
+      ]
+    }
+  },
+  "exclude": {
+    "reason": "Not important, not authored by Michael Katz, or superseded by conference papers",
+    "papers": [
+      {
+        "id": "ma-et-al-corr2018",
+        "reason": "Superseded by conference publication"
+      },
+      {
+        "id": "shleyfman-et-al-tr2014",
+        "reason": "Tech report, not important"
+      },
+      {
+        "id": "bandel-et-al-arxiv2026",
+        "reason": "Not authored by Michael Katz (has Yoav Katz)"
+      },
+      {
+        "id": "katz-domshlak-icaps2007wshdip",
+        "reason": "Workshop paper superseded by conference publication"
+      },
+      {
+        "id": "domshlak-et-al-icaps2009wshdip",
+        "reason": "Workshop paper superseded by conference publication"
+      },
+      {
+        "id": "sievers-et-al-icaps2017wshsdip-a",
+        "reason": "Workshop paper superseded by conference publication"
+      },
+      {
+        "id": "katz-sohrabi-icaps2019wshsdip",
+        "reason": "Workshop paper superseded by conference publication"
+      },
+      {
+        "id": "katz-et-al-icaps2019wshsdip",
+        "reason": "Workshop paper superseded by conference publication"
+      }
+    ]
+  },
+  "notes": {
+    "important_tech_report": {
+      "id": "domshlak-et-al-tr2015",
+      "title": "Symmetry Breaking in Deterministic Planning as Forward Search: Orbit Space Search Algorithm",
+      "category": "Theory and Practice of Classical Planning",
+      "subcategory": "State Pruning Techniques (Symmetry & Partial Order Reduction) & Relevance Analysis",
+      "note": "Only tech report that should be included"
+    }
+  }
+}

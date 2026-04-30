@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Michael Katz Publications - 100+ papers in AI Planning, LLMs, and Automated Planning">
+    <title>Publications - Michael Katz</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* Topic-specific styles */
+        .topic-section {
+            margin-bottom: 2rem;
+        }
+        
+        .topic-header {
+            background: linear-gradient(135deg, var(--primary-blue), var(--accent-teal));
+            color: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: transform 0.2s;
+        }
+        
+        .topic-header:hover {
+            transform: translateX(5px);
+        }
+        
+        .topic-header h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.5rem;
+        }
+        
+        .topic-description {
+            margin: 0.5rem 0 0 0;
+            opacity: 0.9;
+            font-size: 0.95rem;
+        }
+        
+        .paper-count {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 0.25rem 0.75rem;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            margin-top: 0.5rem;
+        }
+        
+        .topic-toggle {
+            font-size: 1.5rem;
+            transition: transform 0.3s;
+        }
+        
+        .topic-content {
+            padding: 1.5rem;
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            max-height: 10000px;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out, padding 0.3s;
+        }
+        
+        .topic-content.collapsed {
+            max-height: 0;
+            padding: 0 1.5rem;
+        }
+        
+        .subtopic-section {
+            margin-bottom: 2rem;
+        }
+        
+        .subtopic-title {
+            color: var(--primary-blue);
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--accent-teal);
+        }
+        
+        .expand-collapse-controls {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-bottom: 2rem;
+        }
+        
+        .control-btn {
+            padding: 0.5rem 1rem;
+            background: var(--primary-blue);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: background 0.3s;
+        }
+        
+        .control-btn:hover {
+            background: var(--accent-teal);
+        }
+    </style>
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="index.html" class="logo">Michael Katz</a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="publications.html" class="active">Publications</a></li>
+                <li><a href="research.html">Research & Software</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="hero" style="padding: 3rem 1.5rem;">
+        <div class="container">
+            <h1 style="color: white; text-align: center; margin-bottom: 1rem;">Publications</h1>
+            <p style="text-align: center; font-size: 1.25rem; opacity: 0.95;">100+ papers in top AI conferences and journals</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container">
+        
+        <!-- Search and Filter Controls -->
+        <section class="section">
+            <div class="publications-controls">
+                <div class="search-box">
+                    <input type="text" id="pub-search" placeholder="Search publications by title, author, or venue...">
+                </div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="conference">Conferences</button>
+                    <button class="filter-btn" data-filter="journal">Journals</button>
+                    <button class="filter-btn" data-filter="workshop">Workshops</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- PhD Thesis Highlight -->
+        <section class="section" id="thesis-section">
+            <!-- Dynamically loaded by publications.js -->
+        </section>
+
+        <!-- Expand/Collapse Controls -->
+        <section class="section">
+            <div class="expand-collapse-controls">
+                <button id="expand-all" class="control-btn">▼ Expand All Topics</button>
+                <button id="collapse-all" class="control-btn">▶ Collapse All Topics</button>
+            </div>
+        </section>
+
+        <!-- Publications by Topic -->
+        <section class="section" id="publications-container">
+            <!-- Dynamically loaded by publications.js -->
+            <div class="card" style="text-align: center; padding: 3rem;">
+                <p style="color: var(--text-secondary);">Loading publications...</p>
+            </div>
+        </section>
+
+        <!-- Call to Action -->
+        <section class="section text-center">
+            <div class="card">
+                <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">Complete Publication List</h3>
+                <p style="margin-bottom: 1.5rem;">For a complete and up-to-date list of all publications, please visit:</p>
+                <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                    <a href="https://scholar.google.com/citations?user=pltkfcMAAAAJ&hl=en" class="btn btn-primary">Google Scholar Profile</a>
+                    <a href="CV_Michael_Katz.pdf" class="btn btn-secondary">Download CV (PDF)</a>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>Michael Katz</h4>
+                <p>Principal Research Scientist<br>
+                IBM T.J. Watson Research Center<br>
+                Yorktown Heights, NY</p>
+                <div class="social-links">
+                    <a href="https://scholar.google.com/citations?user=pltkfcMAAAAJ&hl=en" class="social-link" aria-label="Google Scholar">📚</a>
+                    <a href="https://github.com/ctpelok77/" class="social-link" aria-label="GitHub">💻</a>
+                    <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Michael.Katz1" class="social-link" aria-label="IBM Research">🔬</a>
+                    <a href="https://www.linkedin.com/in/michael-katz-5b5b2b1b/" class="social-link" aria-label="LinkedIn">💼</a>
+                </div>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul class="footer-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="research.html">Research & Software</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Research Areas</h4>
+                <ul class="footer-links">
+                    <li>AI Planning with LLMs</li>
+                    <li>Automated Planning</li>
+                    <li>Heuristic Search</li>
+                    <li>Reinforcement Learning</li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Publication Stats</h4>
+                <p style="font-size: 2rem; color: var(--accent-teal); font-weight: 700; margin: 0.5rem 0;">100+</p>
+                <p>Papers in top venues</p>
+                <p style="margin-top: 1rem;">ICAPS, AAAI, IJCAI, NeurIPS, and more</p>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2026 Michael Katz. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/publications.js"></script>
+</body>
+</html>

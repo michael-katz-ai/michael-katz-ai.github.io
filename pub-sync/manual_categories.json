@@ -1,0 +1,85 @@
+{
+  "comment": "Manual category assignments for publications not in CV or with title mismatches",
+  "mappings": [
+    {
+      "id": "alkhazraji-et-al-ipc2014",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "katz-hoffmann-ipc2014",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "katz-ipc2018",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "katz-et-al-ipc2018",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "katz-et-al-ipc2018b",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "sievers-katz-ipc2018",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "ferber-et-al-ipc2023a",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "ferber-et-al-ipc2023b",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "ferber-et-al-ipc2023c",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "ferber-et-al-ipc2023d",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "ferber-et-al-ipc2023e",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "ferber-et-al-ipc2023f",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "ferber-et-al-ipc2023g",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "IPC Planners"
+    },
+    {
+      "id": "muise-et-al-icaps2022systemdemos",
+      "category": "Applications, Data, and AI Planning based solutions",
+      "subcategory": "Tools"
+    },
+    {
+      "id": "katz-aaai2019",
+      "category": "Theory and Practice of Classical Planning",
+      "subcategory": "Red-Black Planning"
+    },
+    {
+      "id": "domshlak-et-al-tr2015",
+      "category": "Theory and Practice of Classical Planning",
+      "subcategory": "State Pruning Techniques"
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "summary": {
+    "json_count": 96,
+    "bibtex_count": 0,
+    "in_both": 0,
+    "missing_in_json": 0,
+    "missing_in_bibtex": 96
+  },
+  "missing_in_json": [],
+  "missing_in_bibtex": [
+    {
+      "title": "Planning in the LLM Era: Building for Reliability and Efficiency",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Make Planning Research Rigorous Again!",
+      "year": 2025,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Automating Thought of Search: A Journey Towards Soundness and Completeness",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Thought of Search: Planning with Language Models Through The Lens of Efficiency",
+      "year": 2024,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Transition Function Prediction in AI Planning Using LLMs",
+      "year": 2025,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Large Language Models as Planning Domain Generators",
+      "year": 2024,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Can LLMs Fix Issues with Reasoning Models? Towards More Likely Models for AI Planning",
+      "year": 2024,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Improved Generalized Planning with LLMs through Strategy Refinement and Reflection",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Generalized Planning in PDDL Domains with Pretrained Large Language Models",
+      "year": 2024,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Improved Generalized Planning with LLMs through Strategy Refinement and Reflection",
+      "year": 2025,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "ACPBench: Reasoning about Action, Change, and Planning",
+      "year": 2025,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Less is More: Learning Graph Tasks with Just LLMs",
+      "year": 2025,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning",
+      "year": 2024,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Unifying and Certifying Top-Quality Planning",
+      "year": 2024,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "K* Search Over Orbit Space for Top-k Planning",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "On K* Search for Top-K Planning",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "K* and Partial Order Reduction for Top-Quality Planning",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Who Needs These Operators Anyway: Top Quality Planning with Operator Subset Criteria",
+      "year": 2022,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Top-Quality Planning: Finding Practically Useful Sets of Best Plans",
+      "year": 2020,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "A Novel Iterative Approach to Top-k Planning",
+      "year": 2018,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Conflict-Directed Diverse Planning for Logic-Geometric Programming",
+      "year": 2022,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Bounding Quality in Diverse Planning",
+      "year": 2022,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Reshaping Diverse Planning",
+      "year": 2020,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Landmark-Enhanced Abstraction Heuristics",
+      "year": 2012,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Implicit Abstraction Heuristics for Cost-Optimal Planning",
+      "year": 2011,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Implicit Abstraction Heuristics",
+      "year": 2010,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "New Islands of Tractability of Cost-Optimal Planning",
+      "year": 2008,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Structural Patterns Beyond Forks: Extending the Complexity Boundaries of Classical Planning",
+      "year": 2012,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "How to Relax a Bisimulation?",
+      "year": 2012,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "When Abstractions Met Landmarks",
+      "year": 2010,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Structural-Pattern Databases",
+      "year": 2009,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Structural Patterns Heuristics via Fork Decomposition",
+      "year": 2008,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Structural patterns of tractable sequentially-optimal planning",
+      "year": 2007,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Catching Label Subsets for Relaxed Bisimulation: An Abstraction Refinement Approach",
+      "year": 2013,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "On Satisficing Planning with Admissible Heuristics",
+      "year": 2011,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Optimal Admissible Composition of Abstraction Heuristics",
+      "year": 2010,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "When Optimal is Just Not Good Enough: Learning Fast Informative Action Cost-Partitioning",
+      "year": 2011,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Optimal Additive Composition of Abstraction-based Admissible Heuristics",
+      "year": 2008,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "On Partial Satisfaction Planning with Total-Order HTNs",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "On Producing Shortest Cost-Optimal Plans",
+      "year": 2022,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "A$^{",
+      "year": 2022,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Symbolic Search for Oversubscription Planning",
+      "year": 2021,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Oversubscription Planning as Classical Planning with Multiple Cost Functions",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "In Search of Tractability for Partial Satisfaction Planning",
+      "year": 2016,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Red-black planning: a new systematic approach to partial delete relaxation",
+      "year": 2015,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Custom-Design of FDR Encodings: The Case of Red-Black Planning",
+      "year": 2021,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Red-Black Heuristics for Planning Tasks with Conditional Effects",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Red-Black Relaxed Plan Heuristics Reloaded",
+      "year": 2013,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Red-Black Relaxed Plan Heuristics",
+      "year": 2013,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Who Said we Need to Relax All Variables?",
+      "year": 2013,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Pushing the Limits of Partial Delete Relaxation: Red-Black DAG Heuristics",
+      "year": 2014,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Beyond Message Passing: Modern GNN Architectures for Online Planner Selection",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Online Planner Selection with Graph Neural Networks and Adaptive Scheduling",
+      "year": 2020,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Deep learning for cost-optimal planning: Task-dependent planner selection",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Beyond Message Passing: Modern GNN Architectures for Online Planner Selection",
+      "year": 2025,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Simplifying Planning Tasks with Fact-Level Relevance Analysis",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Theoretical foundations for structural symmetries of lifted pddl tasks",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "A Symmetry-based Task Reduction for Relaxed Reachability Analysis",
+      "year": 2018,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Strengthening Canonical Pattern Databases with Structural Symmetries",
+      "year": 2017,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Stubborn Sets for Fully Observable Nondeterministic Planning",
+      "year": 2017,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Structural Symmetries for Fully Observable Nondeterministic Planning",
+      "year": 2016,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Heuristics and Symmetries in Classical Planning",
+      "year": 2015,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Factored symmetries for merge-and-shrink abstractions",
+      "year": 2015,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "An Empirical Case Study on Symmetry Handling in Cost-Optimal Planning as Heuristic Search",
+      "year": 2015,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Integrating Partial Order Reduction and Symmetry Elimination for Cost-Optimal Classical Planning",
+      "year": 2015,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Symmetry Breaking: Satisficing Planning and Landmark Heuristic",
+      "year": 2013,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Enhanced Symmetry Breaking in Cost-Optimal Planning as Forward Search",
+      "year": 2012,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "The Fewer the Merrier: Pruning Preferred Operators with Novelty",
+      "year": 2021,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Adapting Novelty to Classical Planning as Heuristic Search",
+      "year": 2017,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Learning Parameterized Policies for Planning Annotated RL",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "AI Planning Annotation in Reinforcement Learning: Options and Beyond",
+      "year": 2021,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Guiding Hierarchical Reinforcement Learning in Partially Observable Environments with AI Planning",
+      "year": 2024,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Efficient Black-Box Planning Using Macro-Actions with Focused Effects",
+      "year": 2021,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "On Reducing Action Labels in Planning Domains",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators",
+      "year": 2022,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "IBM Scenario Planning Advisor: Plan recognition as AI planning in practice",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "An AI Planning Solution to Scenario Generation for Enterprise Risk Management",
+      "year": 2018,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Scenario Planning In The Wild: A Neuro-Symbolic Approach",
+      "year": 2021,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "IBM Scenario Planning Advisor: A Neuro-Symbolic ERM solution",
+      "year": 2021,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "IBM Scenario Planning Advisor: A Neuro-Symbolic ERM solution",
+      "year": 2020,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "IBM Scenario Planning Advisor: Plan Recognition as AI Planning in Practice",
+      "year": 2018,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Answering binary causal questions through large-scale text mining: An evaluation using cause-effect pairs from human experts",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Generating SAS+ Planning Tasks of Specified Causal Structure",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "IPC: A Benchmark Data Set for Learning with Graph-Structured Data",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Democratizing Usage of Planning Systems by Facilitating Research in Algorithm Selection for Planning",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "The Role of IPC in Setting Standards for Experimental Evaluation in Planning Research",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "QueryGym: Step-by-Step Interaction with Relational Databases",
+      "year": 2026,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "PARIS: Planning Algorithms for Reconfiguring Independent Sets",
+      "year": 2023,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Exploring Context-Free Languages via Planning: The Case for Automating Machine Learning",
+      "year": 2020,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "A Conflict-driven Interface between Symbolic Planning and Nonlinear Constraint Solving",
+      "year": 2022,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Towards Automated Planning for Enterprise Services: Opportunities and Challenges",
+      "year": 2019,
+      "venue": "",
+      "source": "JSON/CV"
+    },
+    {
+      "title": "Semi-Black Box: Rapid Development of Planning Based Solutions",
+      "year": 2018,
+      "venue": "",
+      "source": "JSON/CV"
+    }
+  ]
+}

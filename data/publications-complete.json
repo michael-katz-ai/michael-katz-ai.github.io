@@ -1,0 +1,1676 @@
+{
+  "metadata": {
+    "lastUpdated": "2025-01-15",
+    "totalPapers": 105,
+    "description": "Complete chronological list from BibTeX database",
+    "source": "literatur.bib"
+  },
+  "thesis": {
+    "title": "Implicit Abstraction Heuristics for Cost-Optimal Planning",
+    "university": "Technion - Israel Institute of Technology",
+    "year": 2010,
+    "award": "ICAPS Best Dissertation Award 2011",
+    "links": {
+      "pdf": "PHD/MichaelKatzPhD.pdf",
+      "slides": "PHD/PhDAwardICAPS-talk.pdf"
+    }
+  },
+  "years": [
+    {
+      "year": 2025,
+      "papers": [
+        {
+          "bibtex_key": "katz-et-al-arxiv2025",
+          "bibtex_type": "misc",
+          "title": "Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game",
+          "authors": [
+            "Michael Katz",
+            "Harsha Kokel",
+            "Sarath Sreedharan"
+          ],
+          "venue": "",
+          "year": 2025,
+          "type": "conference",
+          "id": "paper-2025-1"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "papers": [
+        {
+          "bibtex_key": "katz-et-al-arxiv2024",
+          "bibtex_type": "misc",
+          "title": "Unifying and Certifying Top-Quality Planning",
+          "authors": [
+            "Michael Katz",
+            "Junkyu Lee",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 2024,
+          "type": "conference",
+          "id": "paper-2024-1"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "papers": [
+        {
+          "bibtex_key": "allen-et-al-ijcai2021",
+          "bibtex_type": "inproceedings",
+          "title": "Efficient Black-B",
+          "authors": [
+            "Cameron Allen",
+            "Michael Katz",
+            "Tim Klinger",
+            "George Konidaris",
+            "Matthew Riemer",
+            "Gerald Tesauro"
+          ],
+          "venue": "",
+          "year": 2021,
+          "type": "conference",
+          "pages": "4024--4031",
+          "id": "paper-2021-1"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "papers": [
+        {
+          "bibtex_key": "fern-et-al-2020",
+          "bibtex_type": "proceedings",
+          "title": "Proceedings of the 1st Workshop on Bridging the Gap Between AI",
+          "authors": [],
+          "venue": "",
+          "year": 2020,
+          "type": "workshop",
+          "id": "paper-2020-1"
+        },
+        {
+          "bibtex_key": "katz-et-al-zenodo2020",
+          "bibtex_type": "misc",
+          "title": "Grammar2PDDL",
+          "authors": [
+            "Michael Katz",
+            "Parikshit Ram",
+            "Shirin Sohrabi",
+            "Octavian Udrea"
+          ],
+          "venue": "",
+          "year": 2020,
+          "type": "conference",
+          "id": "paper-2020-2"
+        },
+        {
+          "bibtex_key": "ma-et-al-aaai2020",
+          "bibtex_type": "inproceedings",
+          "title": "Online Planner Selection with Graph Neural Networks and Adaptive Scheduling",
+          "authors": [
+            "Tengfei Ma",
+            "Patrick Ferber",
+            "Siyu Huo",
+            "Jie Chen",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 2020,
+          "type": "conference",
+          "pages": "5077--5084",
+          "id": "paper-2020-3"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "papers": [
+        {
+          "bibtex_key": "ferber-et-al-icml2019ws",
+          "bibtex_type": "inproceedings",
+          "title": "IPC",
+          "authors": [
+            "Patrick Ferber",
+            "Tengfei Ma",
+            "Siyu Huo",
+            "Jie Chen",
+            "Michael Katz"
+          ],
+          "venue": "Proceedings of the ICML-2019 Workshop on Learning and Reasoning with Graph-Structured Representations",
+          "year": 2019,
+          "type": "workshop",
+          "id": "paper-2019-1"
+        },
+        {
+          "bibtex_key": "katz-et-al-zenodo2019",
+          "bibtex_type": "misc",
+          "title": "PDDL",
+          "authors": [
+            "Michael Katz",
+            "Emil Keyder",
+            "Florian Pommerening",
+            "Dominik Winterer"
+          ],
+          "venue": "",
+          "year": 2019,
+          "type": "conference",
+          "id": "paper-2019-2"
+        },
+        {
+          "bibtex_key": "katz-et-al-zenodo2019b",
+          "bibtex_type": "misc",
+          "title": "F",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi",
+            "Octavian Udrea"
+          ],
+          "venue": "",
+          "year": 2019,
+          "type": "conference",
+          "id": "paper-2019-3"
+        },
+        {
+          "bibtex_key": "katz-sohrabi-zenodo2019",
+          "bibtex_type": "misc",
+          "title": "Diversity Score Computation for Diverse Planning",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 2019,
+          "type": "conference",
+          "id": "paper-2019-4"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "papers": [
+        {
+          "bibtex_key": "katz-tr2018",
+          "bibtex_type": "techreport",
+          "title": "Red-Black Heuristic for Planning Tasks with Conditional Effects",
+          "authors": [
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 2018,
+          "type": "conference",
+          "id": "paper-2018-1"
+        },
+        {
+          "bibtex_key": "ma-et-al-corr2018",
+          "bibtex_type": "misc",
+          "title": "Adaptive Planner Scheduling with Graph Neural Networks",
+          "authors": [
+            "Tengfei Ma",
+            "Patrick Ferber",
+            "Siyu Huo",
+            "Jie Chen",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 2018,
+          "type": "conference",
+          "id": "paper-2018-2"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "papers": [
+        {
+          "bibtex_key": "domshlak-et-al-aij2015",
+          "bibtex_type": "article",
+          "title": "Red-black planning: A",
+          "authors": [
+            "Carmel Domshlak",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 2015,
+          "type": "journal",
+          "pages": "73--114",
+          "id": "paper-2015-1"
+        },
+        {
+          "bibtex_key": "domshlak-et-al-tr2015",
+          "bibtex_type": "techreport",
+          "title": "Symmetry Breaking in Deterministic Planning as Forward Search: Orbit Space Search Algorithm",
+          "authors": [
+            "Carmel Domshlak",
+            "Michael Katz",
+            "Alexander Shleyfman"
+          ],
+          "venue": "",
+          "year": 2015,
+          "type": "conference",
+          "id": "paper-2015-2"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "papers": [
+        {
+          "bibtex_key": "shleyfman-et-al-tr2014",
+          "bibtex_type": "techreport",
+          "title": "Heuristics and Symmetries in Classical Planning: Additional Proofs",
+          "authors": [
+            "Alexander Shleyfman",
+            "Michael Katz",
+            "Malte Helmert",
+            "Silvan Sievers",
+            "Martin Wehrle"
+          ],
+          "venue": "",
+          "year": 2014,
+          "type": "conference",
+          "id": "paper-2014-1"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "papers": [
+        {
+          "bibtex_key": "domshlak-et-al-aij2012",
+          "bibtex_type": "article",
+          "title": "Landmark-enhanced abstraction heuristics",
+          "authors": [
+            "Carmel Domshlak",
+            "Michael Katz",
+            "Sagi Lefler"
+          ],
+          "venue": "",
+          "year": 2012,
+          "type": "journal",
+          "pages": "48--68",
+          "id": "paper-2012-1"
+        },
+        {
+          "bibtex_key": "katz-et-al-tr2012",
+          "bibtex_type": "techreport",
+          "title": "How to Relax a Bisimulation?",
+          "authors": [
+            "Michael Katz",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 2012,
+          "type": "conference",
+          "id": "paper-2012-2"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "papers": [
+        {
+          "bibtex_key": "katz-domshlak-aij2010",
+          "bibtex_type": "article",
+          "title": "Optimal admissible composition of abstraction heuristics",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 2010,
+          "type": "journal",
+          "pages": "767--798",
+          "id": "paper-2010-1"
+        },
+        {
+          "bibtex_key": "katz-domshlak-jair2010",
+          "bibtex_type": "article",
+          "title": "Implicit Abstraction Heuristics",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 2010,
+          "type": "journal",
+          "pages": "51--126",
+          "id": "paper-2010-2"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "papers": [
+        {
+          "bibtex_key": "katz-domshlak-jair2008",
+          "bibtex_type": "article",
+          "title": "New Islands of Tractability of Cost-Optimal Planning",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 2008,
+          "type": "journal",
+          "pages": "203--288",
+          "id": "paper-2008-1"
+        }
+      ]
+    },
+    {
+      "year": 0,
+      "papers": [
+        {
+          "bibtex_key": "alkhazraji-et-al-ipc2014",
+          "bibtex_type": "inproceedings",
+          "title": "Metis: Arming Fast",
+          "authors": [
+            "Yusra Alkhazraji",
+            "Michael Katz",
+            "Robert\n                  Mattm\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "88--92",
+          "id": "paper-0-1"
+        },
+        {
+          "bibtex_key": "bahumi-et-al-icaps2011wshdip",
+          "bibtex_type": "inproceedings",
+          "title": "On Satisficing Planning with Admissible Heuristics",
+          "authors": [
+            "Roei Bahumi",
+            "Carmel Domshlak",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "pages": "37--42",
+          "id": "paper-0-2"
+        },
+        {
+          "bibtex_key": "behnke-et-al-icaps2023",
+          "bibtex_type": "inproceedings",
+          "title": "On Partial Satisfaction Planning with Total-Order HTNs",
+          "authors": [
+            "Gregor Behnke",
+            "David Speck",
+            "Michael Katz",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "42--51",
+          "id": "paper-0-3"
+        },
+        {
+          "bibtex_key": "caglar-et-al-aaai2024",
+          "bibtex_type": "inproceedings",
+          "title": "Can LLMs",
+          "authors": [
+            "Turgay Caglar",
+            "Sirine Belhaj",
+            "Tathagata Chakraborti",
+            "Michael Katz",
+            "Sarath Sreedharan"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "20061--20069",
+          "id": "paper-0-4"
+        },
+        {
+          "bibtex_key": "cao-et-al-icaps2026",
+          "bibtex_type": "inproceedings",
+          "title": "Automating T",
+          "authors": [
+            "Daniel Cao",
+            "Michael Katz",
+            "Harsha Kokel",
+            "Kavitha Srinivas",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-5"
+        },
+        {
+          "bibtex_key": "cao-et-al-neurips2024wsowa",
+          "bibtex_type": "inproceedings",
+          "title": "Automating T",
+          "authors": [
+            "Daniel Cao",
+            "Michael Katz",
+            "Harsha Kokel",
+            "Kavitha Srinivas",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "id": "paper-0-6"
+        },
+        {
+          "bibtex_key": "christen-et-al-core2022",
+          "bibtex_type": "inproceedings",
+          "title": "(PARIS",
+          "authors": [
+            "Remo Christen",
+            "Salom\\'e"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "15--22",
+          "id": "paper-0-7"
+        },
+        {
+          "bibtex_key": "christen-et-al-ecai2023",
+          "bibtex_type": "inproceedings",
+          "title": "PARIS",
+          "authors": [
+            "Remo Christen",
+            "Salom\\'e"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "453--460",
+          "id": "paper-0-8"
+        },
+        {
+          "bibtex_key": "deharo-et-al-icaps2022",
+          "bibtex_type": "inproceedings",
+          "title": "Conflict-Directed Diverse Planning for Logic-Geometric Programming",
+          "authors": [
+            "Joaquim Ortiz de Haro",
+            "Erez Karpas",
+            "Michael Katz",
+            "Marc Toussaint"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-9"
+        },
+        {
+          "bibtex_key": "domshlak-et-al-icaps2009wshdip",
+          "bibtex_type": "inproceedings",
+          "title": "Abstractions += Landmarks",
+          "authors": [
+            "Carmel Domshlak",
+            "Michael Katz",
+            "Sagi Lefler"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "pages": "57--63",
+          "id": "paper-0-10"
+        },
+        {
+          "bibtex_key": "domshlak-et-al-icaps2010",
+          "bibtex_type": "inproceedings",
+          "title": "When Abstractions Met Landmarks",
+          "authors": [
+            "Carmel Domshlak",
+            "Michael Katz",
+            "Sagi Lefler"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "50--56",
+          "id": "paper-0-11"
+        },
+        {
+          "bibtex_key": "domshlak-et-al-icaps2012",
+          "bibtex_type": "inproceedings",
+          "title": "Enhanced Symmetry Breaking in Cost-Optimal Planning as Forward Search",
+          "authors": [
+            "Carmel Domshlak",
+            "Michael Katz",
+            "Alexander Shleyfman"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "343--347",
+          "id": "paper-0-12"
+        },
+        {
+          "bibtex_key": "domshlak-et-al-icaps2013",
+          "bibtex_type": "inproceedings",
+          "title": "Symmetry Breaking: Satisficing Planning and Landmark Heuristics",
+          "authors": [
+            "Carmel Domshlak",
+            "Michael Katz",
+            "Alexander Shleyfman"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "298--302",
+          "id": "paper-0-13"
+        },
+        {
+          "bibtex_key": "ferber-et-al-ipc2023a",
+          "bibtex_type": "inproceedings",
+          "title": "Hapori Delfi",
+          "authors": [
+            "Patrick Ferber",
+            "Michael Katz",
+            "Jendrik Seipp",
+            "Silvan Sievers",
+            "Daniel Borrajo",
+            "Isabel Cenamor",
+            "Tomas de la Rosa",
+            "Fernando Fernandez-Rebollo",
+            "Carlos Linares L\\'o"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-14"
+        },
+        {
+          "bibtex_key": "ferber-et-al-ipc2023b",
+          "bibtex_type": "inproceedings",
+          "title": "Hapori Explainable Decision Tree",
+          "authors": [
+            "Patrick Ferber",
+            "Michael Katz",
+            "Jendrik Seipp",
+            "Silvan Sievers",
+            "Daniel Borrajo",
+            "Isabel Cenamor",
+            "Tomas de la Rosa",
+            "Fernando Fernandez-Rebollo",
+            "Carlos Linares L\\'o"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-15"
+        },
+        {
+          "bibtex_key": "ferber-et-al-ipc2023c",
+          "bibtex_type": "inproceedings",
+          "title": "Hapori Explainable Linear Regression",
+          "authors": [
+            "Patrick Ferber",
+            "Michael Katz",
+            "Jendrik Seipp",
+            "Silvan Sievers",
+            "Daniel Borrajo",
+            "Isabel Cenamor",
+            "Tomas de la Rosa",
+            "Fernando Fernandez-Rebollo",
+            "Carlos Linares L\\'o"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-16"
+        },
+        {
+          "bibtex_key": "ferber-et-al-ipc2023d",
+          "bibtex_type": "inproceedings",
+          "title": "Hapori Greedy",
+          "authors": [
+            "Patrick Ferber",
+            "Michael Katz",
+            "Jendrik Seipp",
+            "Silvan Sievers",
+            "Daniel Borrajo",
+            "Isabel Cenamor",
+            "Tomas de la Rosa",
+            "Fernando Fernandez-Rebollo",
+            "Carlos Linares L\\'o"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-17"
+        },
+        {
+          "bibtex_key": "ferber-et-al-ipc2023e",
+          "bibtex_type": "inproceedings",
+          "title": "Hapori IBaCoP2",
+          "authors": [
+            "Patrick Ferber",
+            "Michael Katz",
+            "Jendrik Seipp",
+            "Silvan Sievers",
+            "Daniel Borrajo",
+            "Isabel Cenamor",
+            "Tomas de la Rosa",
+            "Fernando Fernandez-Rebollo",
+            "Carlos Linares L\\'o"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-18"
+        },
+        {
+          "bibtex_key": "ferber-et-al-ipc2023f",
+          "bibtex_type": "inproceedings",
+          "title": "Hapori MIPlan",
+          "authors": [
+            "Patrick Ferber",
+            "Michael Katz",
+            "Jendrik Seipp",
+            "Silvan Sievers",
+            "Daniel Borrajo",
+            "Isabel Cenamor",
+            "Tomas de la Rosa",
+            "Fernando Fernandez-Rebollo",
+            "Carlos Linares L\\'o"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-19"
+        },
+        {
+          "bibtex_key": "ferber-et-al-ipc2023g",
+          "bibtex_type": "inproceedings",
+          "title": "Hapori Stone Soup",
+          "authors": [
+            "Patrick Ferber",
+            "Michael Katz",
+            "Jendrik Seipp",
+            "Silvan Sievers",
+            "Daniel Borrajo",
+            "Isabel Cenamor",
+            "Tomas de la Rosa",
+            "Fernando Fernandez-Rebollo",
+            "Carlos Linares L\\'o"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-20"
+        },
+        {
+          "bibtex_key": "fiser-et-al-ijcai2021",
+          "bibtex_type": "inproceedings",
+          "title": "Custom-Design of FDR",
+          "authors": [
+            "Daniel Fi\\vs"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "4054--4061",
+          "id": "paper-0-21"
+        },
+        {
+          "bibtex_key": "gehring-et-al-icaps2022",
+          "bibtex_type": "inproceedings",
+          "title": "Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators",
+          "authors": [
+            "Clement Gehring",
+            "Masataro Asai",
+            "Rohan Chitnis",
+            "Tom Silver",
+            "Leslie Pack Kaelbling",
+            "Shirin Sohrabi",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "588--596",
+          "id": "paper-0-22"
+        },
+        {
+          "bibtex_key": "hassanzadeh-et-al-ijcai2019",
+          "bibtex_type": "inproceedings",
+          "title": "Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts",
+          "authors": [
+            "Oktie Hassanzadeh",
+            "Debarun Bhattacharjya",
+            "Mark Feblowitz",
+            "Kavitha Srinivas",
+            "Michael Perrone",
+            "Shirin Sohrabi",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "5003--5009",
+          "id": "paper-0-23"
+        },
+        {
+          "bibtex_key": "karpas-et-al-icaps2011",
+          "bibtex_type": "inproceedings",
+          "title": "When Optimal Is Just Not Good Enough: Learning Fast Informative Action Cost Partitionings",
+          "authors": [
+            "Erez Karpas",
+            "Michael Katz",
+            "Shaul Markovitch"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "122--129",
+          "id": "paper-0-24"
+        },
+        {
+          "bibtex_key": "katz-domshlak-icaps2007",
+          "bibtex_type": "inproceedings",
+          "title": "Structural Patterns of Tractable Sequentially-Optimal Planning",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "200--207",
+          "id": "paper-0-25"
+        },
+        {
+          "bibtex_key": "katz-domshlak-icaps2007wshdip",
+          "bibtex_type": "inproceedings",
+          "title": "Structural Patterns Heuristics: Basic Idea and Concrete Instance",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "id": "paper-0-26"
+        },
+        {
+          "bibtex_key": "katz-domshlak-icaps2008",
+          "bibtex_type": "inproceedings",
+          "title": "Optimal Additive Composition of Abstraction-based Admissible Heuristics",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "174--181",
+          "id": "paper-0-27"
+        },
+        {
+          "bibtex_key": "katz-domshlak-icaps2008b",
+          "bibtex_type": "inproceedings",
+          "title": "Structural Patterns Heuristics via Fork Decomposition",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "182--189",
+          "id": "paper-0-28"
+        },
+        {
+          "bibtex_key": "katz-domshlak-icaps2009",
+          "bibtex_type": "inproceedings",
+          "title": "Structural-Pattern Databases",
+          "authors": [
+            "Michael Katz",
+            "Carmel Domshlak"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "186--193",
+          "id": "paper-0-29"
+        },
+        {
+          "bibtex_key": "katz-et-al-aaai2013",
+          "bibtex_type": "inproceedings",
+          "title": "Red-Black Relaxed Plan Heuristics",
+          "authors": [
+            "Michael Katz",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "489--495",
+          "id": "paper-0-30"
+        },
+        {
+          "bibtex_key": "katz-et-al-aaai2018",
+          "bibtex_type": "inproceedings",
+          "title": "Semi-Black Box: Rapid Development of Planning Based Solutions",
+          "authors": [
+            "Michael Katz",
+            "Dany Moshkovich",
+            "Erez Karpas"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "6211--6218",
+          "id": "paper-0-31"
+        },
+        {
+          "bibtex_key": "katz-et-al-aaai2020",
+          "bibtex_type": "inproceedings",
+          "title": "Top-Quality Planning: Finding Practically Useful Sets of Best Plans",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi",
+            "Octavian Udrea"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "9900--9907",
+          "id": "paper-0-32"
+        },
+        {
+          "bibtex_key": "katz-et-al-aaai2022",
+          "bibtex_type": "inproceedings",
+          "title": "Bounding Quality in Diverse Planning",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi",
+            "Octavian Udrea"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-33"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2012",
+          "bibtex_type": "inproceedings",
+          "title": "How to Relax a Bisimulation?",
+          "authors": [
+            "Michael Katz",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "101--109",
+          "id": "paper-0-34"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2013",
+          "bibtex_type": "inproceedings",
+          "title": "Who Said We Need to Relax \\em All",
+          "authors": [
+            "Michael Katz",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "126--134",
+          "id": "paper-0-35"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2017",
+          "bibtex_type": "inproceedings",
+          "title": "Adapting Novelty to Classical Planning as Heuristic Search",
+          "authors": [
+            "Michael Katz",
+            "Nir Lipovetzky",
+            "Dany Moshkovich",
+            "Alexander Tuisov"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "172--180",
+          "id": "paper-0-36"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2018",
+          "bibtex_type": "inproceedings",
+          "title": "A Novel Iterative Approach to Top-k Planning",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi",
+            "Octavian Udrea",
+            "Dominik Winterer"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "132--140",
+          "id": "paper-0-37"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2019",
+          "bibtex_type": "inproceedings",
+          "title": "Oversubscription Planning as Classical Planning with Multiple Cost Functions",
+          "authors": [
+            "Michael Katz",
+            "Emil Keyder",
+            "Florian Pommerening",
+            "Dominik Winterer"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "237--245",
+          "id": "paper-0-38"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2019wshsdip",
+          "bibtex_type": "inproceedings",
+          "title": "Top-Quality: Finding Practically Useful Sets of Best Plans",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi",
+            "Octavian Udrea"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "id": "paper-0-39"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2020",
+          "bibtex_type": "inproceedings",
+          "title": "Exploring Context-Free Languages via Planning: The Case for Automating Machine Learning",
+          "authors": [
+            "Michael Katz",
+            "Parikshit Ram",
+            "Shirin Sohrabi",
+            "Octavian Udrea"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "403--411",
+          "id": "paper-0-40"
+        },
+        {
+          "bibtex_key": "katz-et-al-icaps2025wslm4plan",
+          "bibtex_type": "inproceedings",
+          "title": "Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game",
+          "authors": [
+            "Michael Katz",
+            "Harsha Kokel",
+            "Sarath Sreedharan"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "id": "paper-0-41"
+        },
+        {
+          "bibtex_key": "katz-et-al-ipc2018",
+          "bibtex_type": "inproceedings",
+          "title": "Delfi: Online Planner Selection for Cost-Optimal Planning",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi",
+            "Horst Samulowitz",
+            "Silvan Sievers"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "57--64",
+          "id": "paper-0-42"
+        },
+        {
+          "bibtex_key": "katz-et-al-ipc2018b",
+          "bibtex_type": "inproceedings",
+          "title": "MERWIN",
+          "authors": [
+            "Michael Katz",
+            "Nir Lipovetzky",
+            "Dany Moshkovich",
+            "Alexander Tuisov"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "53--56",
+          "id": "paper-0-43"
+        },
+        {
+          "bibtex_key": "katz-et-al-neurips2024",
+          "bibtex_type": "inproceedings",
+          "title": "Thought of Search: Planning with Language Models Through The Lens of Efficiency",
+          "authors": [
+            "Michael Katz",
+            "Harsha Kokel",
+            "Kavitha Srinivas",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "138491--138568",
+          "id": "paper-0-44"
+        },
+        {
+          "bibtex_key": "katz-et-al-socs2022",
+          "bibtex_type": "inproceedings",
+          "title": "On Producing Shortest Cost-Optimal Plans",
+          "authors": [
+            "Michael Katz",
+            "Gabriele R\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "100--108",
+          "id": "paper-0-45"
+        },
+        {
+          "bibtex_key": "katz-et-al-socs2024",
+          "bibtex_type": "inproceedings",
+          "title": "Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning",
+          "authors": [
+            "Michael Katz",
+            "Junkyu Lee",
+            "Jungkoo Kang",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "213--217",
+          "id": "paper-0-46"
+        },
+        {
+          "bibtex_key": "katz-hoffmann-icaps2014wshsdip",
+          "bibtex_type": "inproceedings",
+          "title": "Pushing the Limits of Partial Delete Relaxation: Red-Black DAG",
+          "authors": [
+            "Michael Katz",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "pages": "40--44",
+          "id": "paper-0-47"
+        },
+        {
+          "bibtex_key": "katz-hoffmann-ipc2014",
+          "bibtex_type": "inproceedings",
+          "title": "Mercury Planner: Pushing the Limits of Partial Delete Relaxation",
+          "authors": [
+            "Michael Katz",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "43--47",
+          "id": "paper-0-48"
+        },
+        {
+          "bibtex_key": "katz-hoffmann-socs2013",
+          "bibtex_type": "inproceedings",
+          "title": "Red-Black Relaxed Plan Heuristics Reloaded",
+          "authors": [
+            "Michael Katz",
+            "J\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "105--113",
+          "id": "paper-0-49"
+        },
+        {
+          "bibtex_key": "katz-ipc2018",
+          "bibtex_type": "inproceedings",
+          "title": "Cerberus: Red-Black Heuristic for Planning Tasks with Conditional Effects Meets Novelty Heuristic and Enchanced Mutex Detection",
+          "authors": [
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "47--51",
+          "id": "paper-0-50"
+        },
+        {
+          "bibtex_key": "katz-keyder-aaai2012",
+          "bibtex_type": "inproceedings",
+          "title": "Structural Patterns Beyond Forks: Extending the Complexity Boundaries of Classical Planning",
+          "authors": [
+            "Michael Katz",
+            "Emil Keyder"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "1779--1785",
+          "id": "paper-0-51"
+        },
+        {
+          "bibtex_key": "katz-keyder-aaai2022",
+          "bibtex_type": "inproceedings",
+          "title": "A* Search and Bound-Sensitive Heuristics for Oversubscription Planning",
+          "authors": [
+            "Michael Katz",
+            "Emil Keyder"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-52"
+        },
+        {
+          "bibtex_key": "katz-keyder-icaps2019wshsdip",
+          "bibtex_type": "inproceedings",
+          "title": "A* Search and Bound-Sensitive Heuristics for Oversubscription Planning",
+          "authors": [
+            "Michael Katz",
+            "Emil Keyder"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "id": "paper-0-53"
+        },
+        {
+          "bibtex_key": "katz-lee-ijcai2023",
+          "bibtex_type": "inproceedings",
+          "title": "K* Search Over Orbit Space for Top-k Planning",
+          "authors": [
+            "Michael Katz",
+            "Junkyu Lee"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-54"
+        },
+        {
+          "bibtex_key": "katz-lee-socs2023",
+          "bibtex_type": "inproceedings",
+          "title": "K* and Partial Order Reduction for Top-quality Planning",
+          "authors": [
+            "Michael Katz",
+            "Junkyu Lee"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-55"
+        },
+        {
+          "bibtex_key": "katz-mirkis-ijcai2016",
+          "bibtex_type": "inproceedings",
+          "title": "In Search of Tractability for Partial Satisfaction Planning",
+          "authors": [
+            "Michael Katz",
+            "Vitaly Mirkis"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "3154--3160",
+          "id": "paper-0-56"
+        },
+        {
+          "bibtex_key": "katz-sohrabi-aaai2020",
+          "bibtex_type": "inproceedings",
+          "title": "Reshaping Diverse Planning",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "9892--9899",
+          "id": "paper-0-57"
+        },
+        {
+          "bibtex_key": "katz-sohrabi-icaps2019wshsdip",
+          "bibtex_type": "inproceedings",
+          "title": "Reshaping Diverse Planning: Let There Be Light!",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "id": "paper-0-58"
+        },
+        {
+          "bibtex_key": "katz-sohrabi-icaps2022",
+          "bibtex_type": "inproceedings",
+          "title": "Who Needs These Operators Anyway: Top Quality Planning with Operator Subset Criteria",
+          "authors": [
+            "Michael Katz",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-59"
+        },
+        {
+          "bibtex_key": "kokel-et-al-aaai2025",
+          "bibtex_type": "inproceedings",
+          "title": "ACPBench",
+          "authors": [
+            "Harsha Kokel",
+            "Michael Katz",
+            "Kavitha Srinivas",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "26559--26568",
+          "id": "paper-0-60"
+        },
+        {
+          "bibtex_key": "kokel-et-al-iclr2026",
+          "bibtex_type": "inproceedings",
+          "title": "ACPBench",
+          "authors": [
+            "Harsha Kokel",
+            "Michael Katz",
+            "Kavitha Srinivas",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-61"
+        },
+        {
+          "bibtex_key": "kokel-et-al-ijcai2023",
+          "bibtex_type": "inproceedings",
+          "title": "Action Space Reduction for Planning Domains",
+          "authors": [
+            "Harsha Kokel",
+            "Junkyu Lee",
+            "Michael Katz",
+            "Kavitha Srinivas",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "5394--5401",
+          "id": "paper-0-62"
+        },
+        {
+          "bibtex_key": "lee-et-al-icaps2021wsprl",
+          "bibtex_type": "inproceedings",
+          "title": "AI",
+          "authors": [
+            "Junkyu Lee",
+            "Michael Katz",
+            "Don Joven Agravante",
+            "Miao Liu",
+            "Tim Klinger",
+            "Murray Campbell",
+            "Shirin Sohrabi",
+            "Gerald Tesauro"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "id": "paper-0-63"
+        },
+        {
+          "bibtex_key": "lee-et-al-socs2023",
+          "bibtex_type": "inproceedings",
+          "title": "On K* Search for Top-k Planning",
+          "authors": [
+            "Junkyu Lee",
+            "Michael Katz",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-64"
+        },
+        {
+          "bibtex_key": "muise-et-al-icaps2022systemdemos",
+          "bibtex_type": "inproceedings",
+          "title": "Planutils: Bringing Planning to the Masses",
+          "authors": [
+            "Christian Muise",
+            "Florian Pommerening",
+            "Jendrik Seipp",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-65"
+        },
+        {
+          "bibtex_key": "oswald-et-al-icaps2024",
+          "bibtex_type": "inproceedings",
+          "title": "Large Language Models as Planning Domain Generators",
+          "authors": [
+            "James Oswald",
+            "Kavitha Srinivas",
+            "Harsha Kokel",
+            "Junkyu Lee",
+            "Michael Katz",
+            "Shirin Sohrabi"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "423--431",
+          "id": "paper-0-66"
+        },
+        {
+          "bibtex_key": "roeger-et-al-icaps2018",
+          "bibtex_type": "inproceedings",
+          "title": "Symmetry-based Task Reduction for Relaxed Reachability Analysis",
+          "authors": [
+            "Gabriele R\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "208--217",
+          "id": "paper-0-67"
+        },
+        {
+          "bibtex_key": "shleyfman-et-al-aaai2015",
+          "bibtex_type": "inproceedings",
+          "title": "Heuristics and Symmetries in Classical Planning",
+          "authors": [
+            "Alexander Shleyfman",
+            "Michael Katz",
+            "Malte Helmert",
+            "Silvan Sievers",
+            "Martin Wehrle"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "3371--3377",
+          "id": "paper-0-68"
+        },
+        {
+          "bibtex_key": "sievers-et-al-aaai2015",
+          "bibtex_type": "inproceedings",
+          "title": "Factored Symmetries for Merge-and-Shrink Abstractions",
+          "authors": [
+            "Silvan Sievers",
+            "Martin Wehrle",
+            "Malte Helmert",
+            "Alexander Shleyfman",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "3378--3385",
+          "id": "paper-0-69"
+        },
+        {
+          "bibtex_key": "sievers-et-al-aaai2019",
+          "bibtex_type": "inproceedings",
+          "title": "Deep Learning for Cost-Optimal Planning: Task-Dependent Planner Selection",
+          "authors": [
+            "Silvan Sievers",
+            "Michael Katz",
+            "Shirin Sohrabi",
+            "Horst Samulowitz",
+            "Patrick Ferber"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "7715--7723",
+          "id": "paper-0-70"
+        },
+        {
+          "bibtex_key": "sievers-et-al-icaps2017wshsdip-a",
+          "bibtex_type": "inproceedings",
+          "title": "Structural Symmetries of the Lifted Representation of Classical Planning Tasks",
+          "authors": [
+            "Silvan Sievers",
+            "Gabriele R\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "pages": "67--74",
+          "id": "paper-0-71"
+        },
+        {
+          "bibtex_key": "sievers-et-al-icaps2017wshsdip-b",
+          "bibtex_type": "inproceedings",
+          "title": "Strengthening Canonical Pattern Databases with Structural Symmetries",
+          "authors": [
+            "Silvan Sievers",
+            "Martin Wehrle",
+            "Malte Helmert",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "workshop",
+          "pages": "75--83",
+          "id": "paper-0-72"
+        },
+        {
+          "bibtex_key": "sievers-et-al-icaps2019",
+          "bibtex_type": "inproceedings",
+          "title": "Theoretical Foundations for Structural Symmetries of Lifted PDDL",
+          "authors": [
+            "Silvan Sievers",
+            "Gabriele R\\"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "446--454",
+          "id": "paper-0-73"
+        },
+        {
+          "bibtex_key": "sievers-et-al-ki2015",
+          "bibtex_type": "inproceedings",
+          "title": "An Empirical Case Study on Symmetry Handling in Cost-Optimal Planning as Heuristic Search",
+          "authors": [
+            "Silvan Sievers",
+            "Martin Wehrle",
+            "Malte Helmert",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "151--165",
+          "id": "paper-0-74"
+        },
+        {
+          "bibtex_key": "sievers-et-al-socs2017",
+          "bibtex_type": "inproceedings",
+          "title": "Strengthening Canonical Pattern Databases with Structural Symmetries",
+          "authors": [
+            "Silvan Sievers",
+            "Martin Wehrle",
+            "Malte Helmert",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "91--99",
+          "id": "paper-0-75"
+        },
+        {
+          "bibtex_key": "sievers-katz-ipc2018",
+          "bibtex_type": "inproceedings",
+          "title": "Metis 2018",
+          "authors": [
+            "Silvan Sievers",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "83--84",
+          "id": "paper-0-76"
+        },
+        {
+          "bibtex_key": "silver-et-al-aaai2024",
+          "bibtex_type": "inproceedings",
+          "title": "Generalized Planning in PDDL",
+          "authors": [
+            "Tom Silver",
+            "Soham Dan",
+            "Kavitha Srinivas",
+            "Josh Tenenbaum",
+            "Leslie Pack Kaelbling"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "20256--20264",
+          "id": "paper-0-77"
+        },
+        {
+          "bibtex_key": "sohrabi-et-al-aaai2018",
+          "bibtex_type": "inproceedings",
+          "title": "An AI",
+          "authors": [
+            "Shirin Sohrabi",
+            "Anton V. Riabov",
+            "Michael Katz",
+            "Octavian Udrea"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "160--167",
+          "id": "paper-0-78"
+        },
+        {
+          "bibtex_key": "speck-katz-aaai2021",
+          "bibtex_type": "inproceedings",
+          "title": "Symbolic Search for Oversubscription Planning",
+          "authors": [
+            "David Speck",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "11972--11980",
+          "id": "paper-0-79"
+        },
+        {
+          "bibtex_key": "sreedharan-katz-neurips2023",
+          "bibtex_type": "inproceedings",
+          "title": "Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates",
+          "authors": [
+            "Sarath Sreedharan",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "34519--34535",
+          "id": "paper-0-80"
+        },
+        {
+          "bibtex_key": "stein-et-al-icaps2026",
+          "bibtex_type": "inproceedings",
+          "title": "Improved Generalized Planning with LLMs",
+          "authors": [
+            "Katharina Stein",
+            "Nils Hodel",
+            "Daniel Fi\\vs"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "id": "paper-0-81"
+        },
+        {
+          "bibtex_key": "tuisov-katz-ijcai2021",
+          "bibtex_type": "inproceedings",
+          "title": "The Fewer the Merrier: Pruning Preferred Operators with Novelty",
+          "authors": [
+            "Alexander Tuisov",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "4190--4196",
+          "id": "paper-0-82"
+        },
+        {
+          "bibtex_key": "wehrle-et-al-ijcai2015",
+          "bibtex_type": "inproceedings",
+          "title": "Integrating Partial Order Reduction and Symmetry Elimination for Cost-Optimal Classical Planning",
+          "authors": [
+            "Martin Wehrle",
+            "Malte Helmert",
+            "Alexander\n                  Shleyfman",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "1712--1718",
+          "id": "paper-0-83"
+        },
+        {
+          "bibtex_key": "winterer-et-al-icaps2017",
+          "bibtex_type": "inproceedings",
+          "title": "Stubborn Sets for Fully Observable Nondeterministic Planning",
+          "authors": [
+            "Dominik Winterer",
+            "Yusra Alkhazraji",
+            "Michael Katz",
+            "Martin Wehrle"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "330--338",
+          "id": "paper-0-84"
+        },
+        {
+          "bibtex_key": "winterer-et-al-ijcai2016",
+          "bibtex_type": "inproceedings",
+          "title": "Structural Symmetries for Fully Observable Nondeterministic Planning",
+          "authors": [
+            "Dominik Winterer",
+            "Martin Wehrle",
+            "Michael Katz"
+          ],
+          "venue": "",
+          "year": 0,
+          "type": "conference",
+          "pages": "3293--3299",
+          "id": "paper-0-85"
+        }
+      ]
+    }
+  ]
+}

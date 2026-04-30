@@ -1,0 +1,67 @@
+{
+  "topics": [
+    {
+      "name": "LLMs for Planning and Neuro-Symbolic Reasoning",
+      "id": "llms",
+      "description": "Large Language Models for planning, neuro-symbolic reasoning, and natural language to planning translation",
+      "subtopics": [
+        "Position",
+        "Thought of Search",
+        "NL2PDDL",
+        "NL2Policy",
+        "Benchmarking and fine-tuning"
+      ]
+    },
+    {
+      "name": "Multiple Solutions for Classical Planning",
+      "id": "multiple-solutions",
+      "description": "Top-k planning, diverse planning, and finding multiple high-quality solutions",
+      "subtopics": [
+        "Top-k/Top-quality Planning",
+        "Diverse Planning"
+      ]
+    },
+    {
+      "name": "Theory and Practice of Classical Planning",
+      "id": "classical-planning",
+      "description": "Heuristic search, abstractions, cost partitioning, red-black planning, and state pruning techniques",
+      "subtopics": [
+        "Abstractions",
+        "Cost Partitioning",
+        "Partially Satisfaction Planning",
+        "Red-Black Planning",
+        "Planner Selection",
+        "State Pruning Techniques (Symmetry & Partial Order Reduction) & Relevance Analysis",
+        "Novelty"
+      ]
+    },
+    {
+      "name": "Planning and Reinforcement Learning",
+      "id": "planning-rl",
+      "description": "Integration of planning with reinforcement learning, action models, and reward shaping",
+      "subtopics": [
+        "Planning annotated RL (PaRL)",
+        "Action Models & Rewards"
+      ]
+    },
+    {
+      "name": "Applications, Data, and AI Planning based solutions",
+      "id": "applications",
+      "description": "Real-world applications, planning tools, IPC planners, and data-driven planning",
+      "subtopics": [
+        "IBM Scenario Planning Advisor",
+        "Data & Tools",
+        "IPC Planners",
+        "Other Applications"
+      ]
+    }
+  ],
+  "notes": [
+    "This file controls the order of topics and subtopics in the website.",
+    "Topics are displayed in the order listed above.",
+    "Subtopics within each topic are displayed in the order listed in the 'subtopics' array.",
+    "If 'subtopics' is empty [], subtopics will be sorted alphabetically.",
+    "To reorder, simply move items in the arrays.",
+    "After editing, run: python3 format_website_json_v2.py katz_unified_with_manual.jsonl publications_final.json"
+  ]
+}

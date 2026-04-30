@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Michael Katz's Research Collaborators - 99+ co-authors from leading AI research institutions">
+    <title>Collaborators - Michael Katz</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="index.html" class="logo">Michael Katz</a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="research.html">Research & Software</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="hero" style="padding: 3rem 1.5rem;">
+        <div class="container">
+            <h1 style="color: white; text-align: center; margin-bottom: 1rem;">Research Collaborators</h1>
+            <p style="text-align: center; font-size: 1.25rem; opacity: 0.95;">99+ co-authors from leading AI research institutions worldwide</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container">
+        
+        <!-- Stats -->
+        <section class="section">
+            <div class="card-grid">
+                <div class="card text-center fade-in">
+                    <h3 style="font-size: 2.5rem; color: var(--primary-blue); margin-bottom: 0.5rem;" id="total-collaborators">99+</h3>
+                    <p style="color: var(--gray-600); font-weight: 600;">Total Collaborators</p>
+                </div>
+                <div class="card text-center fade-in">
+                    <h3 style="font-size: 2.5rem; color: var(--accent-teal); margin-bottom: 0.5rem;">100+</h3>
+                    <p style="color: var(--gray-600); font-weight: 600;">Joint Publications</p>
+                </div>
+                <div class="card text-center fade-in">
+                    <h3 style="font-size: 2.5rem; color: var(--highlight-amber); margin-bottom: 0.5rem;">20+</h3>
+                    <p style="color: var(--gray-600); font-weight: 600;">Institutions</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search -->
+        <section class="section">
+            <div class="card fade-in">
+                <input type="text" id="collab-search" placeholder="Search collaborators by name..." 
+                       style="width: 100%; padding: 1rem; font-size: 1rem; border: 2px solid var(--gray-200); border-radius: var(--border-radius);">
+            </div>
+        </section>
+
+        <!-- Top Collaborators -->
+        <section class="section">
+            <div class="section-header">
+                <h2 class="section-title">Frequent Collaborators</h2>
+                <p class="section-subtitle">Co-authors with 5+ joint publications</p>
+            </div>
+            <div id="top-collaborators" class="card-grid">
+                <!-- Populated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- All Collaborators -->
+        <section class="section">
+            <div class="section-header">
+                <h2 class="section-title">All Collaborators</h2>
+                <p class="section-subtitle">Complete list of co-authors</p>
+            </div>
+            <div class="card fade-in">
+                <div id="all-collaborators" style="columns: 3; column-gap: 2rem;">
+                    <!-- Populated by JavaScript -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>Michael Katz</h4>
+                <p>Principal Research Scientist<br>
+                IBM T.J. Watson Research Center<br>
+                Yorktown Heights, NY</p>
+                <div class="social-links">
+                    <a href="https://scholar.google.com/citations?user=pltkfcMAAAAJ&hl=en" class="social-link" aria-label="Google Scholar">📚</a>
+                    <a href="https://github.com/ctpelok77/" class="social-link" aria-label="GitHub">💻</a>
+                    <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Michael.Katz1" class="social-link" aria-label="IBM Research">🔬</a>
+                    <a href="https://www.linkedin.com/in/michael-katz-5b5b2b1b/" class="social-link" aria-label="LinkedIn">💼</a>
+                </div>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul class="footer-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="research.html">Research & Software</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Professional Service</h4>
+                <ul class="footer-links">
+                    <li>AAAI Executive Council</li>
+                    <li>ICAPS Executive Council</li>
+                    <li>ICAPS 2021 Program Co-Chair</li>
+                    <li>Workshop Co-Creator (LM4Plan, PRL)</li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Recognition</h4>
+                <p>🏆 10+ Major Awards</p>
+                <p>🎓 Best Dissertation 2011</p>
+                <p>🥇 IPC Winner 2018</p>
+                <p>⭐ Influential Paper 2023</p>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2026 Michael Katz. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/collaborators.js"></script>
+</body>
+</html>

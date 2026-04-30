@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Shirin Sohrabi",
+    "papers": 42
+  },
+  {
+    "name": "Kavitha Srinivas",
+    "papers": 20
+  },
+  {
+    "name": "Harsha Kokel",
+    "papers": 17
+  },
+  {
+    "name": "Carmel Domshlak",
+    "papers": 15
+  },
+  {
+    "name": "Junkyu Lee 0001",
+    "papers": 15
+  },
+  {
+    "name": "Martin Wehrle",
+    "papers": 8
+  },
+  {
+    "name": "Octavian Udrea",
+    "papers": 8
+  },
+  {
+    "name": "Silvan Sievers",
+    "papers": 8
+  },
+  {
+    "name": "J\u00f6rg Hoffmann 0001",
+    "papers": 7
+  },
+  {
+    "name": "Malte Helmert",
+    "papers": 7
+  },
+  {
+    "name": "Alexander Shleyfman",
+    "papers": 5
+  },
+  {
+    "name": "Erez Karpas",
+    "papers": 5
+  },
+  {
+    "name": "Oktie Hassanzadeh",
+    "papers": 5
+  },
+  {
+    "name": "Sarath Sreedharan",
+    "papers": 5
+  },
+  {
+    "name": "Debarun Bhattacharjya",
+    "papers": 4
+  },
+  {
+    "name": "Dominik Winterer",
+    "papers": 4
+  },
+  {
+    "name": "Leslie Pack Kaelbling",
+    "papers": 4
+  },
+  {
+    "name": "Patrick Ferber",
+    "papers": 4
+  },
+  {
+    "name": "Tom Silver",
+    "papers": 4
+  },
+  {
+    "name": "Christian Muise",
+    "papers": 3
+  },
+  {
+    "name": "David Speck 0001",
+    "papers": 3
+  },
+  {
+    "name": "Emil Keyder",
+    "papers": 3
+  },
+  {
+    "name": "Gabriele R\u00f6ger",
+    "papers": 3
+  },
+  {
+    "name": "Horst Samulowitz",
+    "papers": 3
+  },
+  {
+    "name": "James T. Oswald",
+    "papers": 3
+  },
+  {
+    "name": "Jie Chen 0007",
+    "papers": 3
+  },
+  {
+    "name": "Joaquim Ortiz de Haro",
+    "papers": 3
+  },
+  {
+    "name": "Jungkoo Kang",
+    "papers": 3
+  },
+  {
+    "name": "Marc Toussaint",
+    "papers": 3
+  },
+  {
+    "name": "Mark Feblowitz",
+    "papers": 3
+  },
+  {
+    "name": "Siyu Huo",
+    "papers": 3
+  },
+  {
+    "name": "Tathagata Chakraborti",
+    "papers": 3
+  },
+  {
+    "name": "Tengfei Ma 0001",
+    "papers": 3
+  },
+  {
+    "name": "Alexander Tuisov",
+    "papers": 2
+  },
+  {
+    "name": "Clement Gehring",
+    "papers": 2
+  },
+  {
+    "name": "Daniel Cao",
+    "papers": 2
+  },
+  {
+    "name": "Daniel Fiser",
+    "papers": 2
+  },
+  {
+    "name": "Dany Moshkovich",
+    "papers": 2
+  },
+  {
+    "name": "Florian Pommerening",
+    "papers": 2
+  },
+  {
+    "name": "Gerald Tesauro",
+    "papers": 2
+  },
+  {
+    "name": "Haritha Ananthakrishnan",
+    "papers": 2
+  },
+  {
+    "name": "Joshua B. Tenenbaum",
+    "papers": 2
+  },
+  {
+    "name": "Kelsey Sikes",
+    "papers": 2
+  },
+  {
+    "name": "Mark D. Feblowitz",
+    "papers": 2
+  },
+  {
+    "name": "Masataro Asai",
+    "papers": 2
+  },
+  {
+    "name": "Michael Perrone",
+    "papers": 2
+  },
+  {
+    "name": "Rohan Chitnis",
+    "papers": 2
+  },
+  {
+    "name": "Sagi Lefler",
+    "papers": 2
+  },
+  {
+    "name": "Sirine Belhaj",
+    "papers": 2
+  },
+  {
+    "name": "Soham Dan",
+    "papers": 2
+  },
+  {
+    "name": "Tim Klinger",
+    "papers": 2
+  },
+  {
+    "name": "Turgay Caglar",
+    "papers": 2
+  },
+  {
+    "name": "Alexander Koller",
+    "papers": 1
+  },
+  {
+    "name": "Alice Petrov",
+    "papers": 1
+  },
+  {
+    "name": "Anton Riabov",
+    "papers": 1
+  },
+  {
+    "name": "Anton V. Riabov",
+    "papers": 1
+  },
+  {
+    "name": "Anup K. Kalia",
+    "papers": 1
+  },
+  {
+    "name": "Avigdor Gal",
+    "papers": 1
+  },
+  {
+    "name": "Brandon Rozek",
+    "papers": 1
+  },
+  {
+    "name": "Cameron Allen",
+    "papers": 1
+  },
+  {
+    "name": "Daniel Gnad 0001",
+    "papers": 1
+  },
+  {
+    "name": "Don Joven Agravante",
+    "papers": 1
+  },
+  {
+    "name": "Eliezer Levy",
+    "papers": 1
+  },
+  {
+    "name": "Francesco Fuggitti",
+    "papers": 1
+  },
+  {
+    "name": "George Konidaris 0001",
+    "papers": 1
+  },
+  {
+    "name": "Gregor Behnke",
+    "papers": 1
+  },
+  {
+    "name": "Hans-Arno Jacobsen",
+    "papers": 1
+  },
+  {
+    "name": "Jana Vatter",
+    "papers": 1
+  },
+  {
+    "name": "Jendrik Seipp",
+    "papers": 1
+  },
+  {
+    "name": "Jie Ma",
+    "papers": 1
+  },
+  {
+    "name": "Jinho Hwang",
+    "papers": 1
+  },
+  {
+    "name": "John J. Rofrano",
+    "papers": 1
+  },
+  {
+    "name": "Julian Dolby",
+    "papers": 1
+  },
+  {
+    "name": "Karl Aberer",
+    "papers": 1
+  },
+  {
+    "name": "Katharina Stein",
+    "papers": 1
+  },
+  {
+    "name": "Laura Shwartz",
+    "papers": 1
+  },
+  {
+    "name": "Maja Vukovic",
+    "papers": 1
+  },
+  {
+    "name": "Matthew Riemer",
+    "papers": 1
+  },
+  {
+    "name": "Matthias Weidlich 0001",
+    "papers": 1
+  },
+  {
+    "name": "Miao Liu 0001",
+    "papers": 1
+  },
+  {
+    "name": "Murray Campbell",
+    "papers": 1
+  },
+  {
+    "name": "Nguyen Quoc Viet Hung",
+    "papers": 1
+  },
+  {
+    "name": "Nils Hodel",
+    "papers": 1
+  },
+  {
+    "name": "Nir Lipovetzky",
+    "papers": 1
+  },
+  {
+    "name": "Parikshit Ram",
+    "papers": 1
+  },
+  {
+    "name": "Remo Christen",
+    "papers": 1
+  },
+  {
+    "name": "Rick Hull",
+    "papers": 1
+  },
+  {
+    "name": "Ruben Mayer",
+    "papers": 1
+  },
+  {
+    "name": "Salom\u00e9 Eriksson",
+    "papers": 1
+  },
+  {
+    "name": "Scott N. Gerard",
+    "papers": 1
+  },
+  {
+    "name": "Shaul Markovitch",
+    "papers": 1
+  },
+  {
+    "name": "Sola Shirai",
+    "papers": 1
+  },
+  {
+    "name": "Tomer Sagi",
+    "papers": 1
+  },
+  {
+    "name": "Victor Shafran",
+    "papers": 1
+  },
+  {
+    "name": "Vitaly Mirkis",
+    "papers": 1
+  },
+  {
+    "name": "Yabin Dang",
+    "papers": 1
+  },
+  {
+    "name": "Yusra Alkhazraji",
+    "papers": 1
+  },
+  {
+    "name": "Zhuoxuan Jiang",
+    "papers": 1
+  },
+  {
+    "name": "Zolt\u00e1n Mikl\u00f3s 0001",
+    "papers": 1
+  }
+]

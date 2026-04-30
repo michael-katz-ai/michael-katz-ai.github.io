@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Michael Katz Research & Software - Award-winning planners, open-source tools, and patents">
+    <title>Research & Software - Michael Katz</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="index.html" class="logo">Michael Katz</a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="research.html" class="active">Research & Software</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="hero" style="padding: 3rem 1.5rem;">
+        <div class="container">
+            <h1 style="color: white; text-align: center; margin-bottom: 1rem;">Research & Software</h1>
+            <p style="text-align: center; font-size: 1.25rem; opacity: 0.95;">Award-winning planners, open-source tools, and innovative patents</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container">
+        
+        <!-- Featured Software -->
+        <section class="section">
+            <div class="section-header">
+                <h2 class="section-title">Featured Software & Tools</h2>
+                <p class="section-subtitle">Open-source planners and research tools</p>
+            </div>
+            
+            <div class="card-grid">
+                <div class="card fade-in">
+                    <div class="card-header">
+                        <div class="card-icon">⭐</div>
+                        <div>
+                            <h3 class="card-title">K* Search Planners</h3>
+                            <p class="card-meta">Top-k & Top-Quality Planning</p>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <p>K* search based planners for top-k and top-quality planning tasks. Pip-installable for easy integration.</p>
+                        <div class="pub-links" style="margin-top: 1rem;">
+                            <a href="https://github.com/IBM/kstar" class="pub-link">💻 GitHub</a>
+                            <a href="#" class="pub-link">📦 pip install kstar-planner</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <div class="card-header">
+                        <div class="card-icon">🔄</div>
+                        <div>
+                            <h3 class="card-title">Forbid-Iterative (FI)</h3>
+                            <p class="card-meta">Diverse & Quality Planning</p>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <p>Planner suite for top-k, top-quality, and diverse computational tasks in automated planning.</p>
+                        <div class="pub-links" style="margin-top: 1rem;">
+                            <a href="https://github.com/IBM/forbiditerative" class="pub-link">💻 GitHub</a>
+                            <a href="#" class="pub-link">📦 pip install forbiditerative</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <div class="card-header">
+                        <div class="card-icon">📊</div>
+                        <div>
+                            <h3 class="card-title">Diversity Score</h3>
+                            <p class="card-meta">Plan Quality Metrics</p>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <p>Tool for computing diversity scores for sets of plans, enabling quality assessment of diverse planning.</p>
+                        <div class="pub-links" style="margin-top: 1rem;">
+                            <a href="https://github.com/IBM/diversescore" class="pub-link">💻 GitHub</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <div class="card-header">
+                        <div class="card-icon">🐺</div>
+                        <div>
+                            <h3 class="card-title">Cerberus Planner</h3>
+                            <p class="card-meta">Red-Black Planning</p>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <p>Post-IPC 2018 version of the Cerberus planner, successor to Mercury with advanced red-black heuristics.</p>
+                        <div class="pub-links" style="margin-top: 1rem;">
+                            <a href="https://github.com/ctpelok77/fd-red-black-postipc2018" class="pub-link">💻 GitHub</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <div class="card-header">
+                        <div class="card-icon">🔧</div>
+                        <div>
+                            <h3 class="card-title">AI Planning Service</h3>
+                            <p class="card-meta">IBM Research</p>
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <p>IBM Research AI Planning Service for integrating automated planning into applications and workflows.</p>
+                        <div class="pub-links" style="margin-top: 1rem;">
+                            <a href="https://github.com/IBM/AIPlanningService" class="pub-link">💻 GitHub</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Competition Winners -->
+        <section class="section">
+            <div class="section-header">
+                <h2 class="section-title">Competition Winners</h2>
+                <p class="section-subtitle">Award-winning planners from international competitions</p>
+            </div>
+            
+            <div class="card" style="border-left: 4px solid var(--highlight-amber); margin-bottom: 2rem;">
+                <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🥇 IPC 2018 - Delfi Planner</h3>
+                <p><strong>Winner of the Sequential Optimal Track</strong></p>
+                <p style="margin: 1rem 0;">Delfi won the cost-optimal track of the International Planning Competition 2018, demonstrating state-of-the-art performance in finding optimal solutions.</p>
+                <div class="pub-links">
+                    <a href="https://bitbucket.org/ipc2018-classical/team23/src/ipc-2018-seq-opt/" class="pub-link">💻 Source Code</a>
+                    <a href="papers/ipc2014a.pdf" class="pub-link">📄 System Description</a>
+                </div>
+            </div>
+            
+            <div class="card" style="border-left: 4px solid var(--accent-teal); margin-bottom: 2rem;">
+                <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🥈 IPC 2014 - Mercury Planner</h3>
+                <p><strong>Runner-Up & Innovative Planner Award</strong></p>
+                <p style="margin: 1rem 0;">Mercury achieved runner-up in the satisficing track and received the Innovative Planner Award at IPC 2014 for its novel red-black planning approach.</p>
+                <div class="pub-links">
+                    <a href="https://helios.hud.ac.uk/scommv/IPC-14/repo_planners/Mercury-fixed.zip" class="pub-link">💻 Source Code</a>
+                    <a href="papers/ipc2014a.pdf" class="pub-link">📄 System Description</a>
+                </div>
+            </div>
+            
+            <div class="card-grid">
+                <div class="card fade-in">
+                    <h4 style="color: var(--primary-blue);">Other IPC 2018 Planners</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin: 0.5rem 0;">
+                            <a href="https://bitbucket.org/ipc2018-classical/team21/src/ipc-2018-seq-opt/" class="pub-link">Metis (Optimal)</a>
+                        </li>
+                        <li style="margin: 0.5rem 0;">
+                            <a href="https://bitbucket.org/ipc2018-classical/team14/src/ipc-2018-seq-sat/" class="pub-link">MERWIN (Satisficing)</a>
+                        </li>
+                        <li style="margin: 0.5rem 0;">
+                            <a href="https://bitbucket.org/ipc2018-classical/team15/src/ipc-2018-seq-sat/" class="pub-link">Cerberus (Satisficing)</a>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="card fade-in">
+                    <h4 style="color: var(--primary-blue);">IPC 2014 Planners</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin: 0.5rem 0;">
+                            <a href="https://helios.hud.ac.uk/scommv/IPC-14/repo_planners/seq-opt-metis.zip" class="pub-link">Metis (Optimal)</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Patents -->
+        <section class="section">
+            <div class="section-header">
+                <h2 class="section-title">Patents</h2>
+                <p class="section-subtitle">25+ granted and published patents</p>
+            </div>
+            
+            <div style="background: white; padding: 2rem; border-radius: var(--border-radius-lg); box-shadow: var(--shadow-md);">
+                <h3 style="color: var(--primary-blue); margin-bottom: 1.5rem;">Granted Patents</h3>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Estimating and visualizing collaboration to facilitate automated plan generation</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US Patent 11620486</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Methods and systems for diverse instance generation in artificial intelligence planning</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US Patent 11526791</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Guided plan recognition</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US Patent 11755923</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Iterative generation of top quality plans in automated plan generation</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US Patent 11727289</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Optimizing spatiotemporal computational problems</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US Patent 10635982</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Automatic solution to a scheduling problem</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US Patent 10430739</span>
+                    </li>
+                    <li style="padding: 1rem;">
+                        <strong>Reusable modeling for solving problems</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US Patent 10169291</span>
+                    </li>
+                </ul>
+                
+                <h3 style="color: var(--primary-blue); margin: 2rem 0 1.5rem;">Recent Published Patents</h3>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Partial Order Reduction to Increase Planner Speed</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US 20240420020</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Symmetry Pruning to Increase Planner Speed</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US 20240420038</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Reinforcement Learning Using Lifted Action Models</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US 20240370750</span>
+                    </li>
+                    <li style="padding: 1rem; border-bottom: 1px solid var(--gray-200);">
+                        <strong>Generating Artificial Intelligence Plans of High Diversity</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US 20230394325</span>
+                    </li>
+                    <li style="padding: 1rem;">
+                        <strong>Action Space Reduction for Planning Domains</strong>
+                        <br><span style="color: var(--gray-600); font-size: 0.875rem;">US 20230342653</span>
+                    </li>
+                </ul>
+                
+                <div style="text-align: center; margin-top: 2rem;">
+                    <a href="patents.html" class="btn btn-primary">View All Patents</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Research Highlights -->
+        <section class="section">
+            <div class="section-header">
+                <h2 class="section-title">Research Highlights</h2>
+                <p class="section-subtitle">Key contributions and innovations</p>
+            </div>
+            
+            <div class="card-grid">
+                <div class="card fade-in">
+                    <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🤖 Thought of Search (ToS)</h3>
+                    <p>Novel approach for planning with language models through the lens of efficiency.</p>
+                    <div class="pub-links" style="margin-top: 1rem;">
+                        <a href="https://ibm.github.io/AutoToS/" class="pub-link">🔗 Blog Post</a>
+                        <a href="papers/neurips2024.pdf" class="pub-link">📄 NeurIPS 2024</a>
+                        <a href="papers/katz-et-al-icaps2026.pdf" class="pub-link">📄 ICAPS 2026</a>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">📊 ACPBench</h3>
+                    <p>Comprehensive benchmark for reasoning about action, change, and planning with language models.</p>
+                    <div class="pub-links" style="margin-top: 1rem;">
+                        <a href="https://ibm.github.io/ACPBench/" class="pub-link">🔗 Blog Post</a>
+                        <a href="papers/aaai2025.pdf" class="pub-link">📄 AAAI 2025</a>
+                        <a href="papers/iclr2026.pdf" class="pub-link">📄 ICLR 2026</a>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🌈 Diverse Planning</h3>
+                    <p>Techniques for generating diverse sets of plans, providing users with meaningful alternatives and flexibility in decision-making.</p>
+                    <div class="pub-links" style="margin-top: 1rem;">
+                        <a href="papers/katz-sohrabi-aaai2020.pdf" class="pub-link">📄 AAAI 2020</a>
+                        <a href="papers/katz-et-al-aaai2022.pdf" class="pub-link">📄 AAAI 2022</a>
+                        <a href="papers/deharo-et-al-icaps2022.pdf" class="pub-link">📄 ICAPS 2022</a>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🎯 Top-Quality Planning</h3>
+                    <p>Methods for finding practically useful sets of best plans, enabling better decision-making in planning applications.</p>
+                    <div class="pub-links" style="margin-top: 1rem;">
+                        <a href="papers/katz-et-al-icaps2018.pdf" class="pub-link">📄 ICAPS 2018</a>
+                        <a href="papers/katz-et-al-aaai2020.pdf" class="pub-link">📄 AAAI 2020</a>
+                        <a href="papers/katz-sohrabi-icaps2022.pdf" class="pub-link">📄 ICAPS 2022</a>
+                        <a href="papers/katz-lee-ijcai2023.pdf" class="pub-link">📄 IJCAI 2023</a>
+                        <a href="papers/katz-lee-socs2023.pdf" class="pub-link">📄 SoCS 2023a</a>
+                        <a href="papers/lee-et-al-socs2023.pdf" class="pub-link">📄 SoCS 2023b</a>
+                        <a href="papers/katz-et-al-socs2024.pdf" class="pub-link">📄 SoCS 2024</a>
+                        <a href="papers/katz-et-al-icaps2024.pdf" class="pub-link">📄 ICAPS 2024</a>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🔴⚫ Red-Black Planning</h3>
+                    <p>Systematic approach to partial delete relaxation, forming the basis of award-winning planners Mercury and Cerberus.</p>
+                    <div class="pub-links" style="margin-top: 1rem;">
+                        <a href="papers/katz-et-al-aaai2013.pdf" class="pub-link">📄 AAAI 2013</a>
+                        <a href="papers/katz-et-al-icaps2013.pdf" class="pub-link">📄 ICAPS 2013</a>
+                        <a href="papers/katz-hoffmann-socs2013.pdf" class="pub-link">📄 SoCS 2013</a>
+                        <a href="papers/katz-hoffmann-icaps2014wshsdip.pdf" class="pub-link">📄 HSDIP 2014</a>
+                        <a href="papers/domshlak-et-al-aij2015.pdf" class="pub-link">📄 AIJ 2015</a>
+                        <a href="papers/katz-aaai2019.pdf" class="pub-link">📄 AAAI 2019</a>
+                        <a href="papers/fiser-et-al-ijcai2021.pdf" class="pub-link">📄 IJCAI 2021</a>
+                    </div>
+                </div>
+                
+                <div class="card fade-in" style="display: none;">
+                    <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🏆 Abstraction Heuristics</h3>
+                    <p>Implicit abstraction heuristics for cost-optimal planning. Winner of ICAPS Best Dissertation Award 2011 and Influential Paper Award 2023.</p>
+                    <div class="pub-links" style="margin-top: 1rem;">
+                        <a href="PHD/MichaelKatzPhD.pdf" class="pub-link">📄 PhD Thesis</a>
+                        <a href="papers/icaps08b.pdf" class="pub-link">📄 ICAPS 2008</a>
+                    </div>
+                </div>
+                
+                <div class="card fade-in">
+                    <h3 style="color: var(--primary-blue); margin-bottom: 1rem;">🔄 Planning & RL</h3>
+                    <p>Bridging automated planning and reinforcement learning for autonomous systems and hybrid approaches.</p>
+                    <div class="pub-links" style="margin-top: 1rem;">
+                        <a href="papers/lee-et-al-icaps2021wsprl.pdf" class="pub-link">📄 ICAPS 2021a</a>
+                        <a href="papers/kokel-et-al-ijcai2023wsprl.pdf" class="pub-link">📄 IJCAI 2023a</a>
+                        <a href="papers/rozek-et-al-icaps2024wsprl.pdf" class="pub-link">📄 ICAPS 2024</a>
+                        <a href="papers/gehring-et-al-icaps2022.pdf" class="pub-link">📄 ICAPS 2022</a>
+                        <a href="papers/sreedharan-katz-neurips2023.pdf" class="pub-link">📄 NeurIPS 2023</a>
+                        <a href="papers/kokel-et-al-ijcai2023.pdf" class="pub-link">📄 IJCAI 2023b</a>
+                        <a href="papers/allen-et-al-ijcai2021.pdf" class="pub-link">📄 IJCAI 2021</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Collaborators -->
+        <section class="section">
+            <div class="section-header">
+                <h2 class="section-title">Collaborators</h2>
+                <p class="section-subtitle">Working with leading researchers worldwide</p>
+            </div>
+            
+            <div class="card">
+                <p style="margin-bottom: 1.5rem;">I have had the privilege of collaborating with outstanding researchers from academia and industry, including colleagues from IBM Research, MIT, Technion, University of Basel, Saarland University, and many other institutions.</p>
+                <div style="text-align: center;">
+                    <a href="collaborators.html" class="btn btn-primary">View All Collaborators</a>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h4>Michael Katz</h4>
+                <p>Principal Research Scientist<br>
+                IBM T.J. Watson Research Center<br>
+                Yorktown Heights, NY</p>
+                <div class="social-links">
+                    <a href="https://scholar.google.com/citations?user=pltkfcMAAAAJ&hl=en" class="social-link" aria-label="Google Scholar">📚</a>
+                    <a href="https://github.com/ctpelok77/" class="social-link" aria-label="GitHub">💻</a>
+                    <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Michael.Katz1" class="social-link" aria-label="IBM Research">🔬</a>
+                    <a href="https://www.linkedin.com/in/michael-katz-5b5b2b1b/" class="social-link" aria-label="LinkedIn">💼</a>
+                </div>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul class="footer-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="research.html">Research & Software</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Open Source</h4>
+                <ul class="footer-links">
+                    <li><a href="https://github.com/IBM/kstar">K* Search</a></li>
+                    <li><a href="https://github.com/IBM/forbiditerative">Forbid-Iterative</a></li>
+                    <li><a href="https://github.com/ctpelok77/fd-red-black-postipc2018">Cerberus</a></li>
+                    <li><a href="https://github.com/IBM/AIPlanningService">AI Planning Service</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section">
+                <h4>Competition Success</h4>
+                <p>🥇 IPC 2018 Winner (Optimal)</p>
+                <p>🥈 IPC 2014 Runner-up</p>
+                <p>💡 IPC 2014 Innovation Award</p>
+                <p>🏅 ISR Challenge Medals</p>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2026 Michael Katz. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

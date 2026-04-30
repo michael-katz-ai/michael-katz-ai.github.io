@@ -1,0 +1,1550 @@
+<?xml version="1.0"?>
+<dblpperson name="Michael Katz 0001" pid="75/1295-1" n="101">
+<person key="homepages/75/1295-1" mdate="2025-12-16">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<url>https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Michael.Katz1</url>
+<url>http://fai.cs.uni-saarland.de/katz/</url>
+<url>https://www.wikidata.org/entity/Q102365779</url>
+<url>https://scholar.google.com/citations?user=pltkfcMAAAAJ</url>
+<url>https://mathgenealogy.org/id.php?id=147246</url>
+<url>https://zbmath.org/authors/?q=ai:katz.michael</url>
+<note type="affiliation">IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA</note>
+<note label="former" type="affiliation">IBM Watson Health, Haifa, Israel</note>
+<note label="former" type="affiliation">Saarland University, Department of Computer Science, Saarbr&#252;cken, Germany</note>
+<note label="former" type="affiliation">Technion - Israel Institute of Technology, Faculty of Industrial Engineering &#38; Management, Haifa, Israel</note>
+</person>
+<homonyms n="1">
+<h f="k/Katz:Michael"><person publtype="disambiguation" key="homepages/75/1295" mdate="2018-03-27">
+<author pid="75/1295">Michael Katz</author>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/aaai/Ananthakrishnan26" mdate="2026-03-19">
+<author pid="245/4256">Haritha Ananthakrishnan</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="376/0633">Kelsey Sikes</author>
+<author pid="98/5604">Debarun Bhattacharjya</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<title>QueryGym: Step-by-Step Interaction with Relational Databases.</title>
+<pages>41544-41546</pages>
+<year>2026</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v40i48.42334</ee>
+<crossref>conf/aaai/2026</crossref>
+<url>db/conf/aaai/aaai2026.html#Ananthakrishnan26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Kokel0SS25" mdate="2025-04-17">
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>ACPBench: Reasoning About Action, Change, and Planning.</title>
+<pages>26559-26568</pages>
+<year>2025</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v39i25.34857</ee>
+<crossref>conf/aaai/2025</crossref>
+<url>db/conf/aaai/aaai2025.html#Kokel0SS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Cao0KSS25" mdate="2025-04-17">
+<author pid="386/1763">Daniel Cao</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Automating Thought of Search: A Journey Towards Soundness and Completeness (Student Abstract).</title>
+<pages>29328-29330</pages>
+<year>2025</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v39i28.35240</ee>
+<crossref>conf/aaai/2025</crossref>
+<url>db/conf/aaai/aaai2025.html#Cao0KSS25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2503-24378" mdate="2025-04-21">
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning.</title>
+<year>2025</year>
+<month>March</month>
+<volume>abs/2503.24378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2503.24378</ee>
+<url>db/journals/corr/corr2503.html#abs-2503-24378</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-21674" mdate="2025-06-27">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="70/1862">Christian Muise</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="162/5110">Sarath Sreedharan</author>
+<title>Make Planning Research Rigorous Again!</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.21674</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.21674</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-21674</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2508-02900" mdate="2025-09-10">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="162/5110">Sarath Sreedharan</author>
+<title>Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game.</title>
+<year>2025</year>
+<month>August</month>
+<volume>abs/2508.02900</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2508.02900</ee>
+<url>db/journals/corr/corr2508.html#abs-2508-02900</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2508-10115" mdate="2025-09-13">
+<author pid="250/5408">Sola Shirai</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="08/7028">Julian Dolby</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="13/2167">Horst Samulowitz</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Less is More: Learning Graph Tasks with Just LLMs.</title>
+<year>2025</year>
+<month>August</month>
+<volume>abs/2508.10115</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2508.10115</ee>
+<url>db/journals/corr/corr2508.html#abs-2508-10115</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2508-13876" mdate="2025-09-18">
+<author pid="361/1193">Katharina Stein</author>
+<author pid="415/2705">Nils Hodel</author>
+<author pid="118/0212">Daniel Fiser</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="52/3406">Alexander Koller</author>
+<title>Improved Generalized Planning with LLMs through Strategy Refinement and Reflection.</title>
+<year>2025</year>
+<month>August</month>
+<volume>abs/2508.13876</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2508.13876</ee>
+<url>db/journals/corr/corr2508.html#abs-2508-13876</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2509-21674" mdate="2025-10-20">
+<author pid="245/4256">Haritha Ananthakrishnan</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="376/0633">Kelsey Sikes</author>
+<author pid="98/5604">Debarun Bhattacharjya</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<title>QueryGym: Step-by-Step Interaction with Relational Databases.</title>
+<year>2025</year>
+<month>September</month>
+<volume>abs/2509.21674</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2509.21674</ee>
+<url>db/journals/corr/corr2509.html#abs-2509-21674</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/CaglarBCKS24" mdate="2025-06-30">
+<author pid="346/0173">Turgay Caglar</author>
+<author pid="361/7225">Sirine Belhaj</author>
+<author pid="13/10605">Tathagata Chakraborti</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="162/5110">Sarath Sreedharan</author>
+<title>Can LLMs Fix Issues with Reasoning Models? Towards More Likely Models for AI Planning.</title>
+<pages>20061-20069</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i18.29984</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#CaglarBCKS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/SilverDSTK024" mdate="2024-04-02">
+<author pid="202/1778">Tom Silver</author>
+<author pid="181/9448">Soham Dan</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</author>
+<author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Generalized Planning in PDDL Domains with Pretrained Large Language Models.</title>
+<pages>20256-20264</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i18.30006</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#SilverDSTK024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/OswaldSK00S24" mdate="2025-08-05">
+<author orcid="0000-0003-1195-4793" pid="337/9226">James T. Oswald</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Large Language Models as Planning Domain Generators (Student Abstract).</title>
+<pages>23604-23605</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i21.30491</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#OswaldSK00S24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Rozek0K0S24" mdate="2025-08-05">
+<author pid="300/9484">Brandon Rozek</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Partially Observable Hierarchical Reinforcement Learning with AI Planning (Student Abstract).</title>
+<pages>23635-23636</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i21.30504</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#Rozek0K0S24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/ChakrabortiKFKS24" mdate="2024-04-02">
+<author pid="13/10605">Tathagata Chakraborti</author>
+<author pid="349/7712">Jungkoo Kang</author>
+<author pid="263/2200">Francesco Fuggitti</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Interactive Plan Selection Using Linear Temporal Logic, Disjunctive Action Landmarks, and Natural Language Instruction.</title>
+<pages>23775-23777</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i21.30561</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#ChakrabortiKFKS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaps/00010S24" mdate="2025-08-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Unifying and Certifying Top-Quality Planning.</title>
+<pages>319-323</pages>
+<year>2024</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://doi.org/10.1609/icaps.v34i1.31490</ee>
+<crossref>conf/icaps/2024</crossref>
+<url>db/conf/icaps/icaps2024.html#00010S24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaps/OswaldSK00S24" mdate="2025-08-05">
+<author pid="337/9226">James T. Oswald</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Large Language Models as Planning Domain Generators.</title>
+<pages>423-431</pages>
+<year>2024</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://doi.org/10.1609/icaps.v34i1.31502</ee>
+<crossref>conf/icaps/2024</crossref>
+<url>db/conf/icaps/icaps2024.html#OswaldSK00S24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/0001KSS24" mdate="2025-02-13">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Thought of Search: Planning with Language Models Through The Lens of Efficiency.</title>
+<year>2024</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2024/hash/fa080fe0f218871faec1d8ba20e491d5-Abstract-Conference.html</ee>
+<crossref>conf/nips/2024</crossref>
+<url>db/conf/nips/neurips2024.html#0001KSS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/00010KS24" mdate="2025-08-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="349/7712">Jungkoo Kang</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning.</title>
+<pages>213-217</pages>
+<year>2024</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://doi.org/10.1609/socs.v17i1.31561</ee>
+<crossref>conf/socs/2024</crossref>
+<url>db/conf/socs/socs2024.html#00010KS24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-04874" mdate="2024-02-14">
+<author pid="348/4838">Jana Vatter</author>
+<author pid="132/0330">Ruben Mayer</author>
+<author pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</author>
+<author pid="13/2167">Horst Samulowitz</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Choosing a Classical Planner with Graph Neural Networks.</title>
+<year>2024</year>
+<volume>abs/2402.04874</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.04874</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-04874</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-03176" mdate="2025-08-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Unifying and Certifying Top-Quality Planning.</title>
+<year>2024</year>
+<volume>abs/2403.03176</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.03176</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-03176</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-01503" mdate="2025-08-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="349/7712">Jungkoo Kang</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Some Orders Are Important: Partially Preserving Orders in Top-Quality Planning.</title>
+<year>2024</year>
+<volume>abs/2404.01503</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.01503</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-01503</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-11833" mdate="2024-05-22">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Planning with Language Models Through The Lens of Efficiency.</title>
+<year>2024</year>
+<volume>abs/2404.11833</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.11833</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-11833</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2405-06650" mdate="2025-08-05">
+<author orcid="0000-0003-1195-4793" pid="337/9226">James T. Oswald</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Large Language Models as Planning Domain Generators.</title>
+<year>2024</year>
+<volume>abs/2405.06650</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2405.06650</ee>
+<url>db/journals/corr/corr2405.html#abs-2405-06650</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-11326" mdate="2024-09-26">
+<author pid="386/1763">Daniel Cao</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Automating Thought of Search: A Journey Towards Soundness and Completeness.</title>
+<year>2024</year>
+<volume>abs/2408.11326</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.11326</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-11326</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-05669" mdate="2024-11-18">
+<author pid="164/7457">Harsha Kokel</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>ACPBench: Reasoning about Action, Change, and Planning.</title>
+<year>2024</year>
+<volume>abs/2410.05669</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.05669</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-05669</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aips/Behnke00S23" mdate="2025-10-14">
+<author orcid="0000-0002-1445-9934" pid="150/5866">Gregor Behnke</author>
+<author orcid="0000-0002-5493-7363" pid="168/7342-1">David Speck 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>On Partial Satisfaction Planning with Total-Order HTNs.</title>
+<pages>42-51</pages>
+<year>2023</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://doi.org/10.1609/icaps.v33i1.27177</ee>
+<crossref>conf/aips/2023</crossref>
+<url>db/conf/aips/icaps2023.html#Behnke00S23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecai/ChristenE0MPPSS23" mdate="2025-10-14">
+<author pid="324/5919">Remo Christen</author>
+<author pid="206/2374">Salom&#233; Eriksson</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="70/1862">Christian Muise</author>
+<author pid="358/4510">Alice Petrov</author>
+<author pid="39/7401">Florian Pommerening</author>
+<author pid="116/9268">Jendrik Seipp</author>
+<author pid="117/4987">Silvan Sievers</author>
+<author orcid="0000-0002-5493-7363" pid="168/7342-1">David Speck 0001</author>
+<title>PARIS: Planning Algorithms for Reconfiguring Independent Sets.</title>
+<pages>453-460</pages>
+<year>2023</year>
+<booktitle>ECAI</booktitle>
+<ee type="oa">https://doi.org/10.3233/FAIA230303</ee>
+<crossref>conf/ecai/2023</crossref>
+<url>db/conf/ecai/ecai2023.html#ChristenE0MPPSS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/KatzL23" mdate="2025-08-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<title>K&#8727; Search over Orbit Space for Top-k Planning.</title>
+<pages>5368-5376</pages>
+<year>2023</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2023/596</ee>
+<crossref>conf/ijcai/2023</crossref>
+<url>db/conf/ijcai/ijcai2023.html#KatzL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Kokel00SS23" mdate="2025-08-05">
+<author pid="164/7457">Harsha Kokel</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Action Space Reduction for Planning Domains.</title>
+<pages>5394-5401</pages>
+<year>2023</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2023/599</ee>
+<crossref>conf/ijcai/2023</crossref>
+<url>db/conf/ijcai/ijcai2023.html#Kokel00SS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nips/SreedharanK23" mdate="2025-06-30">
+<author pid="162/5110">Sarath Sreedharan</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Optimistic Exploration in Reinforcement Learning Using Symbolic Model Estimates.</title>
+<year>2023</year>
+<booktitle>NeurIPS</booktitle>
+<ee type="oa">http://papers.nips.cc/paper_files/paper/2023/hash/6cbd0a1251f41b41aa68e728bcc1ee40-Abstract-Conference.html</ee>
+<crossref>conf/nips/2023</crossref>
+<url>db/conf/nips/neurips2023.html#SreedharanK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/00010S23" mdate="2025-08-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Generating SAS+ Planning Tasks of Specified Causal Structure.</title>
+<pages>29-37</pages>
+<year>2023</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://doi.org/10.1609/socs.v16i1.27280</ee>
+<crossref>conf/socs/2023</crossref>
+<url>db/conf/socs/socs2023.html#00010S23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/00010S23a" mdate="2025-08-05">
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>On K* Search for Top-K Planning.</title>
+<pages>38-46</pages>
+<year>2023</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://doi.org/10.1609/socs.v16i1.27281</ee>
+<crossref>conf/socs/2023</crossref>
+<url>db/conf/socs/socs2023.html#00010S23a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/0001L23" mdate="2025-08-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<title>K&#8727; and Partial Order Reduction for Top-Quality Planning.</title>
+<pages>143-147</pages>
+<year>2023</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://doi.org/10.1609/socs.v16i1.27293</ee>
+<crossref>conf/socs/2023</crossref>
+<url>db/conf/socs/socs2023.html#0001L23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-11014" mdate="2023-05-25">
+<author pid="202/1778">Tom Silver</author>
+<author pid="181/9448">Soham Dan</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</author>
+<author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Generalized Planning in PDDL Domains with Pretrained Large Language Models.</title>
+<year>2023</year>
+<volume>abs/2305.11014</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.11014</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-11014</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-13720" mdate="2025-06-30">
+<author pid="346/0173">Turgay Caglar</author>
+<author pid="361/7225">Sirine Belhaj</author>
+<author pid="13/10605">Tathagata Chakraborti</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="162/5110">Sarath Sreedharan</author>
+<title>Towards More Likely Models for AI Planning.</title>
+<year>2023</year>
+<volume>abs/2311.13720</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.13720</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-13720</url>
+</article>
+</r>
+<r><article key="journals/ral/HaroKKT22" mdate="2022-12-05">
+<author orcid="0000-0002-6599-7302" pid="278/3061">Joaquim Ortiz de Haro</author>
+<author orcid="0000-0002-9328-3657" pid="92/7121">Erez Karpas</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-5487-6767" pid="t/MarcToussaint">Marc Toussaint</author>
+<title>A Conflict-Driven Interface Between Symbolic Planning and Nonlinear Constraint Solving.</title>
+<pages>10518-10525</pages>
+<year>2022</year>
+<volume>7</volume>
+<journal>IEEE Robotics Autom. Lett.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/LRA.2022.3191948</ee>
+<url>db/journals/ral/ral7.html#HaroKKT22</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/0001SU22" mdate="2023-09-04">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4681">Octavian Udrea</author>
+<title>Bounding Quality in Diverse Planning.</title>
+<pages>9805-9812</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i9.21216</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#0001SU22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/0001K22" mdate="2023-09-04">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="25/5341">Emil Keyder</author>
+<title>A* Search and Bound-Sensitive Heuristics for Oversubscription Planning.</title>
+<pages>9813-9820</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i9.21217</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#0001K22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Kokel00SS22" mdate="2025-08-05">
+<author orcid="0000-0002-7548-3719" pid="164/7457">Harsha Kokel</author>
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<title>How to Reduce Action Space for Planning Domains? (Student Abstract).</title>
+<pages>12989-12990</pages>
+<year>2022</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v36i11.21631</ee>
+<crossref>conf/aaai/2022</crossref>
+<url>db/conf/aaai/aaai2022.html#Kokel00SS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/0001S22" mdate="2022-07-20">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Who Needs These Operators Anyway: Top Quality Planning with Operator Subset Criteria.</title>
+<pages>179-183</pages>
+<year>2022</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://ojs.aaai.org/index.php/ICAPS/article/view/19800</ee>
+<crossref>conf/aips/2022</crossref>
+<url>db/conf/aips/icaps2022.html#0001S22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/HaroKT022" mdate="2022-07-20">
+<author pid="278/3061">Joaquim Ortiz de Haro</author>
+<author pid="92/7121">Erez Karpas</author>
+<author pid="t/MarcToussaint">Marc Toussaint</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Conflict-Directed Diverse Planning for Logic-Geometric Programming.</title>
+<pages>279-287</pages>
+<year>2022</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://ojs.aaai.org/index.php/ICAPS/article/view/19811</ee>
+<crossref>conf/aips/2022</crossref>
+<url>db/conf/aips/icaps2022.html#HaroKT022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/GehringACSKS022" mdate="2022-07-20">
+<author pid="131/5247">Clement Gehring</author>
+<author pid="149/1319">Masataro Asai</author>
+<author pid="151/9589">Rohan Chitnis</author>
+<author pid="202/1778">Tom Silver</author>
+<author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators.</title>
+<pages>588-596</pages>
+<year>2022</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://ojs.aaai.org/index.php/ICAPS/article/view/19846</ee>
+<crossref>conf/aips/2022</crossref>
+<url>db/conf/aips/icaps2022.html#GehringACSKS022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/0001RH22" mdate="2024-01-02">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-0092-2107" pid="92/2559">Gabriele R&#246;ger</author>
+<author pid="21/4581">Malte Helmert</author>
+<title>On Producing Shortest Cost-Optimal Plans.</title>
+<pages>100-108</pages>
+<year>2022</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://doi.org/10.1609/socs.v15i1.21757</ee>
+<crossref>conf/socs/2022</crossref>
+<url>db/conf/socs/socs2022.html#0001RH22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-00669" mdate="2025-08-05">
+<author orcid="0000-0002-6636-2886" pid="65/6241-1">Junkyu Lee 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="135/8103">Don Joven Agravante</author>
+<author pid="60/6348-1">Miao Liu 0001</author>
+<author pid="35/6223">Tim Klinger</author>
+<author pid="72/3339">Murray Campbell</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="68/2197">Gerald Tesauro</author>
+<title>AI Planning Annotation for Sample Efficient Reinforcement Learning.</title>
+<year>2022</year>
+<volume>abs/2203.00669</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.00669</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-00669</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-15275" mdate="2025-08-05">
+<author pid="278/3061">Joaquim Ortiz de Haro</author>
+<author pid="92/7121">Erez Karpas</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-5487-6767" pid="t/MarcToussaint">Marc Toussaint</author>
+<title>A Conflict-driven Interface between Symbolic Planning and Nonlinear Constraint Solving.</title>
+<year>2022</year>
+<volume>abs/2211.15275</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.15275</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-15275</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/0001K21a" mdate="2025-10-14">
+<author orcid="0000-0002-5493-7363" pid="168/7342-1">David Speck 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Symbolic Search for Oversubscription Planning.</title>
+<pages>11972-11980</pages>
+<year>2021</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v35i13.17422</ee>
+<crossref>conf/aaai/2021</crossref>
+<url>db/conf/aaai/aaai2021.html#0001K21a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/FeblowitzH0SSU21" mdate="2023-09-04">
+<author pid="17/3915">Mark Feblowitz</author>
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="39/4681">Octavian Udrea</author>
+<title>IBM Scenario Planning Advisor: A Neuro-Symbolic ERM Solution.</title>
+<pages>16032-16034</pages>
+<year>2021</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v35i18.18003</ee>
+<crossref>conf/aaai/2021</crossref>
+<url>db/conf/aaai/aaai2021.html#FeblowitzH0SSU21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/AllenKK0RT21" mdate="2022-08-03">
+<author pid="206/6780">Cameron Allen</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="35/6223">Tim Klinger</author>
+<author pid="56/6762">George Konidaris 0001</author>
+<author pid="166/1499">Matthew Riemer</author>
+<author pid="68/2197">Gerald Tesauro</author>
+<title>Efficient Black-Box Planning Using Macro-Actions with Focused Effects.</title>
+<pages>4024-4031</pages>
+<year>2021</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2021/554</ee>
+<crossref>conf/ijcai/2021</crossref>
+<url>db/conf/ijcai/ijcai2021.html#AllenKK0RT21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/FiserGK021" mdate="2023-09-30">
+<author orcid="0000-0003-2383-9477" pid="118/0212">Daniel Fiser</author>
+<author pid="162/9918">Daniel Gnad 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<title>Custom-Design of FDR Encodings: The Case of Red-Black Planning.</title>
+<pages>4054-4061</pages>
+<year>2021</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2021/558</ee>
+<crossref>conf/ijcai/2021</crossref>
+<url>db/conf/ijcai/ijcai2021.html#FiserGK021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Tuisov021" mdate="2021-08-25">
+<author pid="183/0914">Alexander Tuisov</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>The Fewer the Merrier: Pruning Preferred Operators with Novelty.</title>
+<pages>4190-4196</pages>
+<year>2021</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2021/576</ee>
+<crossref>conf/ijcai/2021</crossref>
+<url>db/conf/ijcai/ijcai2021.html#Tuisov021</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/aips/2021" mdate="2023-08-30">
+<editor pid="37/5274">Susanne Biundo</editor>
+<editor pid="143/2041">Minh Do</editor>
+<editor pid="252/7414">Robert Goldman</editor>
+<editor pid="75/1295-1">Michael Katz 0001</editor>
+<editor pid="82/6362-1">Qiang Yang 0001</editor>
+<editor pid="12/793">Hankz Hankui Zhuo</editor>
+<title>Proceedings of the Thirty-First International Conference on Automated Planning and Scheduling, ICAPS 2021, Guangzhou, China (virtual), August 2-13, 2021</title>
+<booktitle>ICAPS</booktitle>
+<year>2021</year>
+<publisher>AAAI Press</publisher>
+<isbn>978-1-57735-867-1</isbn>
+<ee type="oa">https://www.aaai.org/Library/ICAPS/icaps21contents.php</ee>
+<url>db/conf/aips/icaps2021.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-14830" mdate="2021-10-04">
+<author pid="131/5247">Clement Gehring</author>
+<author pid="149/1319">Masataro Asai</author>
+<author pid="151/9589">Rohan Chitnis</author>
+<author pid="202/1778">Tom Silver</author>
+<author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators.</title>
+<year>2021</year>
+<volume>abs/2109.14830</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.14830</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-14830</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/MaFHC020" mdate="2023-09-04">
+<author pid="94/9023-1">Tengfei Ma 0001</author>
+<author pid="230/3785">Patrick Ferber</author>
+<author pid="166/6641">Siyu Huo</author>
+<author pid="92/6289-7">Jie Chen 0007</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Online Planner Selection with Graph Neural Networks and Adaptive Scheduling.</title>
+<pages>5077-5084</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i04.5949</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#MaFHC020</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/0001S20" mdate="2023-09-04">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<title>Reshaping Diverse Planning.</title>
+<pages>9892-9899</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i06.6543</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#0001S20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/KatzSU20" mdate="2023-09-04">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4681">Octavian Udrea</author>
+<title>Top-Quality Planning: Finding Practically Useful Sets of Best Plans.</title>
+<pages>9900-9907</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i06.6544</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#KatzSU20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/HassanzadehBFSP20" mdate="2023-09-04">
+<author pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="98/5604">Debarun Bhattacharjya</author>
+<author pid="17/3915">Mark Feblowitz</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="12/6569">Michael Perrone</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Causal Knowledge Extraction through Large-Scale Text Mining.</title>
+<pages>13610-13611</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i09.7092</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#HassanzadehBFSP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/0001RSU20" mdate="2022-03-07">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="99/8314">Parikshit Ram</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4681">Octavian Udrea</author>
+<title>Exploring Context-Free Languages via Planning: The Case for Automating Machine Learning.</title>
+<pages>403-411</pages>
+<year>2020</year>
+<booktitle>ICAPS</booktitle>
+<ee type="oa">https://ojs.aaai.org/index.php/ICAPS/article/view/6686</ee>
+<crossref>conf/aips/2020</crossref>
+<url>db/conf/aips/icaps2020.html#0001RSU20</url>
+</inproceedings>
+</r>
+<r><article key="journals/aicom/SohrabiKHUFR19" mdate="2025-01-19">
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="39/4681">Octavian Udrea</author>
+<author pid="17/3915">Mark D. Feblowitz</author>
+<author pid="80/5282">Anton Riabov</author>
+<title>IBM Scenario Planning Advisor: Plan recognition as AI planning in practice.</title>
+<pages>1-13</pages>
+<year>2019</year>
+<volume>32</volume>
+<journal>AI Commun.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/AIC-180602</ee>
+<ee>https://www.wikidata.org/entity/Q128350673</ee>
+<url>db/journals/aicom/aicom32.html#SohrabiKHUFR19</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/000119" mdate="2021-02-02">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Red-Black Heuristics for Planning Tasks with Conditional Effects.</title>
+<pages>7619-7626</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33017619</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#000119</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/Sievers0SSF19" mdate="2021-02-02">
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="13/2167">Horst Samulowitz</author>
+<author pid="230/3785">Patrick Ferber</author>
+<title>Deep Learning for Cost-Optimal Planning: Task-Dependent Planner Selection.</title>
+<pages>7715-7723</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v33i01.33017715</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Sievers0SSF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/0001KWP19" mdate="2022-03-07">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="25/5341">Emil Keyder</author>
+<author pid="183/0955">Dominik Winterer</author>
+<author pid="39/7401">Florian Pommerening</author>
+<title>Oversubscription Planning as Classical Planning with Multiple Cost Functions.</title>
+<pages>237-245</pages>
+<year>2019</year>
+<booktitle>ICAPS</booktitle>
+<ee type="oa">https://ojs.aaai.org/index.php/ICAPS/article/view/3482</ee>
+<crossref>conf/aips/2019</crossref>
+<url>db/conf/aips/icaps2019.html#0001KWP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/SieversRW019" mdate="2022-03-07">
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="92/2559">Gabriele R&#246;ger</author>
+<author pid="01/5971">Martin Wehrle</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Theoretical Foundations for Structural Symmetries of Lifted PDDL Tasks.</title>
+<pages>446-454</pages>
+<year>2019</year>
+<booktitle>ICAPS</booktitle>
+<ee type="oa">https://ojs.aaai.org/index.php/ICAPS/article/view/3509</ee>
+<crossref>conf/aips/2019</crossref>
+<url>db/conf/aips/icaps2019.html#SieversRW019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoc/VukovicGH0SSMRK19" mdate="2019-10-28">
+<author pid="78/3069">Maja Vukovic</author>
+<author pid="02/1773">Scott N. Gerard</author>
+<author pid="h/RichardHull">Rick Hull</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="32/6257">Laura Shwartz</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="70/1862">Christian Muise</author>
+<author pid="30/1402">John J. Rofrano</author>
+<author pid="118/4007">Anup K. Kalia</author>
+<author pid="68/425">Jinho Hwang</author>
+<author pid="60/4193">Yabin Dang</author>
+<author pid="62/5110">Jie Ma</author>
+<author pid="183/2883">Zhuoxuan Jiang</author>
+<title>Towards Automated Planning for Enterprise Services: Opportunities and Challenges.</title>
+<pages>64-68</pages>
+<year>2019</year>
+<booktitle>ICSOC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33702-5_6</ee>
+<crossref>conf/icsoc/2019</crossref>
+<url>db/conf/icsoc/icsoc2019.html#VukovicGH0SSMRK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/HassanzadehBFSP19" mdate="2021-04-09">
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="98/5604">Debarun Bhattacharjya</author>
+<author pid="17/3915">Mark Feblowitz</author>
+<author pid="39/4444">Kavitha Srinivas</author>
+<author pid="12/6569">Michael Perrone</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/695</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#HassanzadehBFSP19</url>
+<pages>5003-5009</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-06393" mdate="2021-06-15">
+<author pid="230/3785">Patrick Ferber</author>
+<author pid="94/9023-1">Tengfei Ma 0001</author>
+<author pid="166/6641">Siyu Huo</author>
+<author pid="92/6289-7">Jie Chen 0007</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>IPC: A Benchmark Data Set for Learning with Graph-Structured Data.</title>
+<year>2019</year>
+<volume>abs/1905.06393</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.06393</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-06393</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/SohrabiRKU18" mdate="2023-09-04">
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="80/5282">Anton V. Riabov</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="39/4681">Octavian Udrea</author>
+<title>An AI Planning Solution to Scenario Generation for Enterprise Risk Management.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.11304</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SohrabiRKU18</url>
+<pages>160-167</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/KatzMK18" mdate="2023-09-04">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="52/7403">Dany Moshkovich</author>
+<author pid="92/7121">Erez Karpas</author>
+<title>Semi-Black Box: Rapid Development of Planning Based Solutions.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v32i1.12093</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#KatzMK18</url>
+<pages>6211-6218</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/0001SUW18" mdate="2018-06-25">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="39/4681">Octavian Udrea</author>
+<author pid="183/0955">Dominik Winterer</author>
+<title>A Novel Iterative Approach to Top-k Planning.</title>
+<pages>132-140</pages>
+<year>2018</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17749</ee>
+<crossref>conf/aips/2018</crossref>
+<url>db/conf/aips/icaps2018.html#0001SUW18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/RogerS018" mdate="2018-06-25">
+<author pid="92/2559">Gabriele R&#246;ger</author>
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Symmetry-Based Task Reduction for Relaxed Reachability Analysis.</title>
+<pages>208-217</pages>
+<year>2018</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://aaai.org/ocs/index.php/ICAPS/ICAPS18/paper/view/17772</ee>
+<crossref>conf/aips/2018</crossref>
+<url>db/conf/aips/icaps2018.html#RogerS018</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/Sohrabi0HUF18" mdate="2021-04-09">
+<author pid="51/410">Shirin Sohrabi</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0001-5307-9857" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</author>
+<author pid="39/4681">Octavian Udrea</author>
+<author pid="17/3915">Mark D. Feblowitz</author>
+<title>IBM Scenario Planning Advisor: Plan Recognition as AI Planning in Practice.</title>
+<pages>5865-5867</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/864</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#Sohrabi0HUF18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1811-00210" mdate="2021-06-15">
+<author pid="94/9023-1">Tengfei Ma 0001</author>
+<author pid="230/3785">Patrick Ferber</author>
+<author pid="166/6641">Siyu Huo</author>
+<author pid="92/6289-7">Jie Chen 0007</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Adaptive Planner Scheduling with Graph Neural Networks.</title>
+<year>2018</year>
+<volume>abs/1811.00210</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1811.00210</ee>
+<url>db/journals/corr/corr1811.html#abs-1811-00210</url>
+</article>
+</r>
+<r><inproceedings key="conf/aips/KatzLMT17" mdate="2020-02-20">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="57/7560">Nir Lipovetzky</author>
+<author pid="52/7403">Dany Moshkovich</author>
+<author pid="183/0914">Alexander Tuisov</author>
+<title>Adapting Novelty to Classical Planning as Heuristic Search.</title>
+<pages>172-180</pages>
+<year>2017</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15736</ee>
+<crossref>conf/aips/2017</crossref>
+<url>db/conf/aips/icaps2017.html#KatzLMT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/WintererA0W17" mdate="2017-09-26">
+<author pid="183/0955">Dominik Winterer</author>
+<author pid="118/2627">Yusra Alkhazraji</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="01/5971">Martin Wehrle</author>
+<title>Stubborn Sets for Fully Observable Nondeterministic Planning.</title>
+<pages>330-338</pages>
+<year>2017</year>
+<booktitle>ICAPS</booktitle>
+<ee>https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15760</ee>
+<crossref>conf/aips/2017</crossref>
+<url>db/conf/aips/icaps2017.html#WintererA0W17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/SieversWH017" mdate="2023-12-18">
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="01/5971">Martin Wehrle</author>
+<author pid="21/4581">Malte Helmert</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Strengthening Canonical Pattern Databases with Structural Symmetries.</title>
+<pages>91-99</pages>
+<year>2017</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://doi.org/10.1609/socs.v8i1.18429</ee>
+<crossref>conf/socs/2017</crossref>
+<url>db/conf/socs/socs2017.html#SieversWH017</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/KatzM16" mdate="2019-08-20">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="57/6803">Vitaly Mirkis</author>
+<title>In Search of Tractability for Partial Satisfaction Planning.</title>
+<pages>3154-3160</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/447</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#KatzM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WintererW016" mdate="2019-08-20">
+<author pid="183/0955">Dominik Winterer</author>
+<author pid="01/5971">Martin Wehrle</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Structural Symmetries for Fully Observable Nondeterministic Planning.</title>
+<pages>3293-3299</pages>
+<year>2016</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://www.ijcai.org/Abstract/16/466</ee>
+<crossref>conf/ijcai/2016</crossref>
+<url>db/conf/ijcai/ijcai2016.html#WintererW016</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/Domshlak0015" mdate="2017-05-27">
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Red-black planning: A new systematic approach to partial delete relaxation.</title>
+<pages>73-114</pages>
+<year>2015</year>
+<volume>221</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2014.12.008</ee>
+<url>db/journals/ai/ai221.html#Domshlak0015</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/Shleyfman0HSW15" mdate="2023-09-18">
+<author pid="116/9267">Alexander Shleyfman</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="21/4581">Malte Helmert</author>
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="01/5971">Martin Wehrle</author>
+<title>Heuristics and Symmetries in Classical Planning.</title>
+<pages>3371-3377</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v29i1.9649</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#Shleyfman0HSW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/SieversWHS015" mdate="2023-09-18">
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="01/5971">Martin Wehrle</author>
+<author pid="21/4581">Malte Helmert</author>
+<author pid="116/9267">Alexander Shleyfman</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Factored Symmetries for Merge-and-Shrink Abstractions.</title>
+<pages>3378-3385</pages>
+<year>2015</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v29i1.9642</ee>
+<crossref>conf/aaai/2015</crossref>
+<url>db/conf/aaai/aaai2015.html#SieversWHS015</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/WehrleHS015" mdate="2019-08-20">
+<author pid="01/5971">Martin Wehrle</author>
+<author pid="21/4581">Malte Helmert</author>
+<author pid="116/9267">Alexander Shleyfman</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Integrating Partial Order Reduction and Symmetry Elimination for Cost-Optimal Classical Planning.</title>
+<pages>1712-1718</pages>
+<year>2015</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">http://ijcai.org/Abstract/15/244</ee>
+<crossref>conf/ijcai/2015</crossref>
+<url>db/conf/ijcai/ijcai2015.html#WehrleHS015</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ki/SieversWH015" mdate="2024-10-06">
+<author pid="117/4987">Silvan Sievers</author>
+<author pid="01/5971">Martin Wehrle</author>
+<author orcid="0009-0008-8462-350X" pid="21/4581">Malte Helmert</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>An Empirical Case Study on Symmetry Handling in Cost-Optimal Planning as Heuristic Search.</title>
+<pages>166-180</pages>
+<year>2015</year>
+<booktitle>KI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-24489-1_13</ee>
+<crossref>conf/ki/2015</crossref>
+<url>db/conf/ki/ki2015.html#SieversWH015</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/KatzD14" mdate="2018-08-13">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Implicit Abstraction Heuristics.</title>
+<year>2014</year>
+<volume>abs/1401.3853</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1401.3853</ee>
+<url>db/journals/corr/corr1401.html#KatzD14</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/KatzHD13" mdate="2023-09-04">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Red-Black Relaxed Plan Heuristics.</title>
+<year>2013</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v27i1.8644</ee>
+<crossref>conf/aaai/2013</crossref>
+<url>db/conf/aaai/aaai2013.html#KatzHD13</url>
+<pages>489-495</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/DomshlakKS13" mdate="2015-01-02">
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="116/9267">Alexander Shleyfman</author>
+<title>Symmetry Breaking: Satisficing Planning and Landmark Heuristics.</title>
+<year>2013</year>
+<booktitle>ICAPS</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/ICAPS/ICAPS13/paper/view/5975</ee>
+<crossref>conf/aips/2013</crossref>
+<url>db/conf/aips/icaps2013.html#DomshlakKS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/KatzHD13" mdate="2015-01-02">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Who Said We Need to Relax All Variables?</title>
+<year>2013</year>
+<booktitle>ICAPS</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/ICAPS/ICAPS13/paper/view/5983</ee>
+<crossref>conf/aips/2013</crossref>
+<url>db/conf/aips/icaps2013.html#KatzHD13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/GalKSWAHMLS13" mdate="2023-05-26">
+<author pid="g/AvigdorGal">Avigdor Gal</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author orcid="0000-0002-8916-0128" pid="51/8415">Tomer Sagi</author>
+<author orcid="0000-0003-3325-7227" pid="61/267">Matthias Weidlich 0001</author>
+<author pid="a/KarlAberer">Karl Aberer</author>
+<author orcid="0000-0002-9687-1315" pid="88/302">Nguyen Quoc Viet Hung</author>
+<author pid="82/31-1">Zolt&#225;n Mikl&#243;s 0001</author>
+<author pid="64/1366">Eliezer Levy</author>
+<author pid="87/1973">Victor Shafran</author>
+<title>Completeness and Ambiguity of Schema Cover.</title>
+<pages>241-258</pages>
+<year>2013</year>
+<booktitle>OTM Conferences</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41030-7_15</ee>
+<ee>https://www.wikidata.org/entity/Q110709344</ee>
+<crossref>conf/otm/2013</crossref>
+<url>db/conf/otm/otm2013.html#GalKSWAHMLS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socs/KatzH13" mdate="2023-12-18">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<title>Red-Black Relaxed Plan Heuristics Reloaded.</title>
+<year>2013</year>
+<booktitle>SOCS</booktitle>
+<ee type="oa">https://doi.org/10.1609/socs.v4i1.18286</ee>
+<crossref>conf/socs/2013</crossref>
+<url>db/conf/socs/socs2013.html#KatzH13</url>
+<pages>105-113</pages>
+</inproceedings>
+</r>
+<r><article key="journals/ai/DomshlakKL12" mdate="2017-05-27">
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="95/8220">Sagi Lefler</author>
+<title>Landmark-enhanced abstraction heuristics.</title>
+<pages>48-68</pages>
+<year>2012</year>
+<volume>189</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2012.05.003</ee>
+<url>db/journals/ai/ai189.html#DomshlakKL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/KatzK12" mdate="2023-09-04">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="25/5341">Emil Keyder</author>
+<title>Structural Patterns Beyond Forks: Extending the Complexity Boundaries of Classical Planning.</title>
+<year>2012</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v26i1.8357</ee>
+<crossref>conf/aaai/2012</crossref>
+<url>db/conf/aaai/aaai2012.html#KatzK12</url>
+<pages>1779-1785</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/DomshlakKS12" mdate="2015-01-02">
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="116/9267">Alexander Shleyfman</author>
+<title>Enhanced Symmetry Breaking in Cost-Optimal Planning as Forward Search.</title>
+<year>2012</year>
+<booktitle>ICAPS</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/ICAPS/ICAPS12/paper/view/4616</ee>
+<crossref>conf/aips/2012</crossref>
+<url>db/conf/aips/icaps2012.html#DomshlakKS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/KatzHH12" mdate="2015-01-02">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="26/836">J&#246;rg Hoffmann 0001</author>
+<author pid="21/4581">Malte Helmert</author>
+<title>How to Relax a Bisimulation?</title>
+<year>2012</year>
+<booktitle>ICAPS</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/ICAPS/ICAPS12/paper/view/4593</ee>
+<crossref>conf/aips/2012</crossref>
+<url>db/conf/aips/icaps2012.html#KatzHH12</url>
+</inproceedings>
+</r>
+<r><article key="journals/aicom/Katz11" mdate="2017-05-18">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<title>Implicit abstraction heuristics for cost-optimal planning.</title>
+<pages>343-345</pages>
+<year>2011</year>
+<volume>24</volume>
+<journal>AI Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/AIC-2011-0504</ee>
+<url>db/journals/aicom/aicom24.html#Katz11</url>
+</article>
+</r>
+<r><inproceedings key="conf/aips/KarpasKM11" mdate="2015-01-02">
+<author pid="92/7121">Erez Karpas</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="m/ShaulMarkovitch">Shaul Markovitch</author>
+<title>When Optimal Is Just Not Good Enough: Learning Fast Informative Action Cost Partitionings.</title>
+<year>2011</year>
+<booktitle>ICAPS</booktitle>
+<ee>http://aaai.org/ocs/index.php/ICAPS/ICAPS11/paper/view/2672</ee>
+<crossref>conf/aips/2011</crossref>
+<url>db/conf/aips/icaps2011.html#KarpasKM11</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/KatzD10" mdate="2017-05-27">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Optimal admissible composition of abstraction heuristics.</title>
+<pages>767-798</pages>
+<year>2010</year>
+<volume>174</volume>
+<journal>Artif. Intell.</journal>
+<number>12-13</number>
+<ee>https://doi.org/10.1016/j.artint.2010.04.021</ee>
+<url>db/journals/ai/ai174.html#KatzD10</url>
+</article>
+</r>
+<r><article key="journals/jair/KatzD10" mdate="2025-01-19">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Implicit Abstraction Heuristics.</title>
+<pages>51-126</pages>
+<year>2010</year>
+<volume>39</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.3063</ee>
+<ee>https://www.wikidata.org/entity/Q129520526</ee>
+<url>db/journals/jair/jair39.html#KatzD10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aips/DomshlakKL10" mdate="2015-01-02">
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="95/8220">Sagi Lefler</author>
+<title>When Abstractions Met Landmarks.</title>
+<pages>50-56</pages>
+<year>2010</year>
+<booktitle>ICAPS</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/view/1431</ee>
+<crossref>conf/aips/2010</crossref>
+<url>db/conf/aips/icaps2010.html#DomshlakKL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/KatzD09" mdate="2015-01-02">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Structural-Pattern Databases.</title>
+<year>2009</year>
+<booktitle>ICAPS</booktitle>
+<crossref>conf/aips/2009</crossref>
+<url>db/conf/aips/icaps2009.html#KatzD09</url>
+<ee>http://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/706</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jair/KatzD08" mdate="2025-01-19">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>New Islands of Tractability of Cost-Optimal Planning.</title>
+<pages>203-288</pages>
+<year>2008</year>
+<volume>32</volume>
+<journal>J. Artif. Intell. Res.</journal>
+<ee type="oa">https://doi.org/10.1613/jair.2498</ee>
+<ee>https://www.wikidata.org/entity/Q129560950</ee>
+<url>db/journals/jair/jair32.html#KatzD08</url>
+</article>
+</r>
+<r><inproceedings key="conf/aips/KatzD08" mdate="2021-02-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Optimal Additive Composition of Abstraction-based Admissible Heuristics.</title>
+<pages>174-181</pages>
+<year>2008</year>
+<booktitle>ICAPS</booktitle>
+<crossref>conf/aips/2008</crossref>
+<url>db/conf/aips/icaps2008.html#KatzD08</url>
+<ee type="oa">http://www.aaai.org/Library/ICAPS/2008/icaps08-022.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/KatzD08a" mdate="2021-02-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Structural Patterns Heuristics via Fork Decomposition.</title>
+<pages>182-189</pages>
+<year>2008</year>
+<booktitle>ICAPS</booktitle>
+<crossref>conf/aips/2008</crossref>
+<url>db/conf/aips/icaps2008.html#KatzD08a</url>
+<ee type="oa">http://www.aaai.org/Library/ICAPS/2008/icaps08-023.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aips/KatzD07" mdate="2021-02-05">
+<author pid="75/1295-1">Michael Katz 0001</author>
+<author pid="d/CarmelDomshlak">Carmel Domshlak</author>
+<title>Structural Patterns of Tractable Sequentially-Optimal Planning.</title>
+<pages>200-207</pages>
+<year>2007</year>
+<booktitle>ICAPS</booktitle>
+<crossref>conf/aips/2007</crossref>
+<url>db/conf/aips/icaps2007.html#KatzD07</url>
+<ee type="oa">http://www.aaai.org/Library/ICAPS/2007/icaps07-026.php</ee>
+</inproceedings>
+</r>
+<coauthors n="102" nc="1">
+<co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
+<co c="0"><na f="a/Agravante:Don_Joven" pid="135/8103">Don Joven Agravante</na></co>
+<co c="0"><na f="a/Alkhazraji:Yusra" pid="118/2627">Yusra Alkhazraji</na></co>
+<co c="0"><na f="a/Allen:Cameron" pid="206/6780">Cameron Allen</na></co>
+<co c="0"><na f="a/Ananthakrishnan:Haritha" pid="245/4256">Haritha Ananthakrishnan</na></co>
+<co c="0"><na f="a/Asai:Masataro" pid="149/1319">Masataro Asai</na></co>
+<co c="0"><na f="b/Behnke:Gregor" pid="150/5866">Gregor Behnke</na></co>
+<co c="0"><na f="b/Belhaj:Sirine" pid="361/7225">Sirine Belhaj</na></co>
+<co c="0"><na f="b/Bhattacharjya:Debarun" pid="98/5604">Debarun Bhattacharjya</na></co>
+<co c="0" n="2"><na f="b/Biundo=Stephan:Susanne" pid="37/5274">Susanne Biundo-Stephan</na><na>Susanne Biundo</na></co>
+<co c="0"><na f="c/Caglar:Turgay" pid="346/0173">Turgay Caglar</na></co>
+<co c="0"><na f="c/Campbell:Murray" pid="72/3339">Murray Campbell</na></co>
+<co c="0"><na f="c/Cao:Daniel" pid="386/1763">Daniel Cao</na></co>
+<co c="0"><na f="c/Chakraborti:Tathagata" pid="13/10605">Tathagata Chakraborti</na></co>
+<co c="0"><na f="c/Chen_0007:Jie" pid="92/6289-7">Jie Chen 0007</na></co>
+<co c="0"><na f="c/Chitnis:Rohan" pid="151/9589">Rohan Chitnis</na></co>
+<co c="0"><na f="c/Christen:Remo" pid="324/5919">Remo Christen</na></co>
+<co c="0"><na f="d/Dan:Soham" pid="181/9448">Soham Dan</na></co>
+<co c="0"><na f="d/Dang:Yabin" pid="60/4193">Yabin Dang</na></co>
+<co c="0"><na f="d/Do:Minh" pid="143/2041">Minh Do</na></co>
+<co c="0"><na f="d/Dolby:Julian" pid="08/7028">Julian Dolby</na></co>
+<co c="0"><na f="d/Domshlak:Carmel" pid="d/CarmelDomshlak">Carmel Domshlak</na></co>
+<co c="0"><na f="e/Eriksson:Salom=eacute=" pid="206/2374">Salom&#233; Eriksson</na></co>
+<co c="0" n="2"><na f="f/Feblowitz:Mark" pid="17/3915">Mark Feblowitz</na><na>Mark D. Feblowitz</na></co>
+<co c="0"><na f="f/Ferber:Patrick" pid="230/3785">Patrick Ferber</na></co>
+<co c="0"><na f="f/Fiser:Daniel" pid="118/0212">Daniel Fiser</na></co>
+<co c="0"><na f="f/Fuggitti:Francesco" pid="263/2200">Francesco Fuggitti</na></co>
+<co c="0"><na f="g/Gal:Avigdor" pid="g/AvigdorGal">Avigdor Gal</na></co>
+<co c="0"><na f="g/Gehring:Clement" pid="131/5247">Clement Gehring</na></co>
+<co c="0"><na f="g/Gerard:Scott_N=" pid="02/1773">Scott N. Gerard</na></co>
+<co c="0"><na f="g/Gnad_0001:Daniel" pid="162/9918">Daniel Gnad 0001</na></co>
+<co c="0"><na f="g/Goldman:Robert" pid="252/7414">Robert Goldman</na></co>
+<co c="0"><na f="h/Haro:Joaquim_Ortiz_de" pid="278/3061">Joaquim Ortiz de Haro</na></co>
+<co c="0"><na f="h/Hassanzadeh:Oktie" pid="h/OktieHassanzadeh">Oktie Hassanzadeh</na></co>
+<co c="0"><na f="h/Helmert:Malte" pid="21/4581">Malte Helmert</na></co>
+<co c="0"><na f="h/Hodel:Nils" pid="415/2705">Nils Hodel</na></co>
+<co c="0"><na f="h/Hoffmann_0001:J=ouml=rg" pid="26/836">J&#246;rg Hoffmann 0001</na></co>
+<co c="0" n="2"><na f="h/Hull_0001:Richard" pid="h/RichardHull">Richard Hull 0001</na><na>Rick Hull</na></co>
+<co c="0"><na f="h/Hung:Nguyen_Quoc_Viet" pid="88/302">Nguyen Quoc Viet Hung</na></co>
+<co c="0"><na f="h/Huo:Siyu" pid="166/6641">Siyu Huo</na></co>
+<co c="0"><na f="h/Hwang:Jinho" pid="68/425">Jinho Hwang</na></co>
+<co c="0"><na f="j/Jacobsen:Hans=Arno" pid="j/HansArnoJacobsen">Hans-Arno Jacobsen</na></co>
+<co c="0"><na f="j/Jiang:Zhuoxuan" pid="183/2883">Zhuoxuan Jiang</na></co>
+<co c="0"><na f="k/Kaelbling:Leslie_Pack" pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</na></co>
+<co c="0"><na f="k/Kalia:Anup_K=" pid="118/4007">Anup K. Kalia</na></co>
+<co c="0"><na f="k/Kang:Jungkoo" pid="349/7712">Jungkoo Kang</na></co>
+<co c="0"><na f="k/Karpas:Erez" pid="92/7121">Erez Karpas</na></co>
+<co c="0"><na f="k/Keyder:Emil" pid="25/5341">Emil Keyder</na></co>
+<co c="0"><na f="k/Klinger:Tim" pid="35/6223">Tim Klinger</na></co>
+<co c="0"><na f="k/Kokel:Harsha" pid="164/7457">Harsha Kokel</na></co>
+<co c="0"><na f="k/Koller:Alexander" pid="52/3406">Alexander Koller</na></co>
+<co c="0" n="2"><na f="k/Konidaris:George_Dimitri" pid="56/6762">George Dimitri Konidaris</na><na>George Konidaris 0001</na></co>
+<co c="0"><na f="l/Lee_0001:Junkyu" pid="65/6241-1">Junkyu Lee 0001</na></co>
+<co c="0"><na f="l/Lefler:Sagi" pid="95/8220">Sagi Lefler</na></co>
+<co c="0"><na f="l/Levy:Eliezer" pid="64/1366">Eliezer Levy</na></co>
+<co c="0"><na f="l/Lipovetzky:Nir" pid="57/7560">Nir Lipovetzky</na></co>
+<co c="0"><na f="l/Liu_0001:Miao" pid="60/6348-1">Miao Liu 0001</na></co>
+<co c="0"><na f="m/Ma:Jie" pid="62/5110">Jie Ma</na></co>
+<co c="0"><na f="m/Ma_0001:Tengfei" pid="94/9023-1">Tengfei Ma 0001</na></co>
+<co c="0"><na f="m/Markovitch:Shaul" pid="m/ShaulMarkovitch">Shaul Markovitch</na></co>
+<co c="0"><na f="m/Mayer:Ruben" pid="132/0330">Ruben Mayer</na></co>
+<co c="0"><na f="m/Mikl=oacute=s_0001:Zolt=aacute=n" pid="82/31-1">Zolt&#225;n Mikl&#243;s 0001</na></co>
+<co c="0"><na f="m/Mirkis:Vitaly" pid="57/6803">Vitaly Mirkis</na></co>
+<co c="0"><na f="m/Moshkovich:Dany" pid="52/7403">Dany Moshkovich</na></co>
+<co c="0" n="2"><na f="m/Muise:Christian_J=" pid="70/1862">Christian J. Muise</na><na>Christian Muise</na></co>
+<co c="0"><na f="o/Oswald:James_T=" pid="337/9226">James T. Oswald</na></co>
+<co c="0"><na f="p/Perrone:Michael" pid="12/6569">Michael Perrone</na></co>
+<co c="0"><na f="p/Petrov:Alice" pid="358/4510">Alice Petrov</na></co>
+<co c="0"><na f="p/Pommerening:Florian" pid="39/7401">Florian Pommerening</na></co>
+<co c="0"><na f="r/Ram:Parikshit" pid="99/8314">Parikshit Ram</na></co>
+<co c="0" n="2"><na f="r/Riabov:Anton" pid="80/5282">Anton Riabov</na><na>Anton V. Riabov</na></co>
+<co c="0"><na f="r/Riemer:Matthew" pid="166/1499">Matthew Riemer</na></co>
+<co c="0"><na f="r/Rofrano:John_J=" pid="30/1402">John J. Rofrano</na></co>
+<co c="0"><na f="r/R=ouml=ger:Gabriele" pid="92/2559">Gabriele R&#246;ger</na></co>
+<co c="0"><na f="r/Rozek:Brandon" pid="300/9484">Brandon Rozek</na></co>
+<co c="0"><na f="s/Sagi:Tomer" pid="51/8415">Tomer Sagi</na></co>
+<co c="0"><na f="s/Samulowitz:Horst" pid="13/2167">Horst Samulowitz</na></co>
+<co c="0"><na f="s/Seipp:Jendrik" pid="116/9268">Jendrik Seipp</na></co>
+<co c="0"><na f="s/Shafran:Victor" pid="87/1973">Victor Shafran</na></co>
+<co c="0" n="2"><na f="s/Shirai:Sola_S=" pid="250/5408">Sola S. Shirai</na><na>Sola Shirai</na></co>
+<co c="0"><na f="s/Shleyfman:Alexander" pid="116/9267">Alexander Shleyfman</na></co>
+<co c="0" n="2"><na f="s/Shwartz:Larisa" pid="32/6257">Larisa Shwartz</na><na>Laura Shwartz</na></co>
+<co c="0"><na f="s/Sievers:Silvan" pid="117/4987">Silvan Sievers</na></co>
+<co c="0"><na f="s/Sikes:Kelsey" pid="376/0633">Kelsey Sikes</na></co>
+<co c="0"><na f="s/Silver:Tom" pid="202/1778">Tom Silver</na></co>
+<co c="0"><na f="s/Sohrabi:Shirin" pid="51/410">Shirin Sohrabi</na></co>
+<co c="0"><na f="s/Speck_0001:David" pid="168/7342-1">David Speck 0001</na></co>
+<co c="0"><na f="s/Sreedharan:Sarath" pid="162/5110">Sarath Sreedharan</na></co>
+<co c="0"><na f="s/Srinivas:Kavitha" pid="39/4444">Kavitha Srinivas</na></co>
+<co c="0"><na f="s/Stein:Katharina" pid="361/1193">Katharina Stein</na></co>
+<co c="0"><na f="t/Tenenbaum:Joshua_B=" pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</na></co>
+<co c="0"><na f="t/Tesauro:Gerald" pid="68/2197">Gerald Tesauro</na></co>
+<co c="0"><na f="t/Toussaint:Marc" pid="t/MarcToussaint">Marc Toussaint</na></co>
+<co c="0"><na f="t/Tuisov:Alexander" pid="183/0914">Alexander Tuisov</na></co>
+<co c="0"><na f="u/Udrea:Octavian" pid="39/4681">Octavian Udrea</na></co>
+<co c="0"><na f="v/Vatter:Jana" pid="348/4838">Jana Vatter</na></co>
+<co c="0"><na f="v/Vukovic:Maja" pid="78/3069">Maja Vukovic</na></co>
+<co c="0"><na f="w/Wehrle:Martin" pid="01/5971">Martin Wehrle</na></co>
+<co c="0"><na f="w/Weidlich_0001:Matthias" pid="61/267">Matthias Weidlich 0001</na></co>
+<co c="0"><na f="w/Winterer:Dominik" pid="183/0955">Dominik Winterer</na></co>
+<co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0" n="2"><na f="z/Zhuo:Hankui" pid="12/793">Hankui Zhuo</na><na>Hankz Hankui Zhuo</na></co>
+</coauthors>
+</dblpperson>
+
