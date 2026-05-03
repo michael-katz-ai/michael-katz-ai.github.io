@@ -20,7 +20,7 @@
           "title": "Position",
           "papers": [
             {
-              "bibtex_key": "katz-et-al-arxiv2025a",
+              "bibtex_key": "katz-et-al-icml2026",
               "title": "Make Planning Research Rigorous Again!",
               "authors": [
                 "Michael Katz",
@@ -28,10 +28,10 @@
                 "Christian Muise",
                 "Shirin Sohrabi and Sarath Sreedharan"
               ],
-              "year": "2025",
-              "venue": "arXiv:2505.21674 [cs.AI]",
+              "year": "2026",
+              "venue": "Proceedings of the Forty-Third International Conference on Machine Learning (ICML 2026)",
               "pdf": "papers/katz-et-al-arxiv2025a.pdf",
-              "type": "misc"
+              "type": "inproceedings"
             },
             {
               "bibtex_key": "katz-et-al-icaps2026",
