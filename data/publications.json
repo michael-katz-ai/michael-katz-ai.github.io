@@ -1,10 +1,10 @@
 {
   "thesis": {
-    "title": "Structural Patterns Heuristics via Fork Decomposition",
-    "year": "2012",
+    "title": "Implicit Abstraction Heuristics for Cost-Optimal Planning",
+    "year": "2010",
     "university": "Technion - Israel Institute of Technology",
     "advisor": "Prof. Carmel Domshlak",
-    "award": "ICAPS 2013 Best Dissertation Award",
+    "award": "ICAPS 2011 Best Dissertation Award",
     "links": {
       "pdf": "PHD/MichaelKatzPhD.pdf",
       "slides": "PHD/PhDAwardICAPS-talk.pdf"
