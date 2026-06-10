@@ -366,12 +366,40 @@ a:focus {
 /* News/Highlights */
 .news-list {
   list-style: none;
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+/* Custom scrollbar styling for news list */
+.news-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-list::-webkit-scrollbar-track {
+  background: var(--gray-100);
+  border-radius: 4px;
+}
+
+.news-list::-webkit-scrollbar-thumb {
+  background: var(--accent-teal);
+  border-radius: 4px;
+}
+
+.news-list::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-blue);
+}
+
+/* Firefox scrollbar */
+.news-list {
+  scrollbar-width: thin;
+  scrollbar-color: var(--accent-teal) var(--gray-100);
 }
 
 .news-item {
   background: var(--white);
-  padding: var(--spacing-lg);
-  margin-bottom: var(--spacing-md);
+  padding: var(--spacing-md) var(--spacing-lg);
+  margin-bottom: var(--spacing-sm);
   border-radius: var(--border-radius);
   border-left: 4px solid var(--accent-teal);
   box-shadow: var(--shadow-sm);
@@ -383,11 +411,19 @@ a:focus {
   transform: translateX(4px);
 }
 
+.news-item p {
+  margin-bottom: 0;
+}
+
 .news-date {
-  font-size: 0.875rem;
-  color: var(--gray-600);
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--white);
+  background: var(--accent-teal);
   font-weight: 600;
-  margin-bottom: var(--spacing-xs);
+  padding: 0.125rem 0.5rem;
+  border-radius: 4px;
+  margin-right: 0.5rem;
 }
 
 /* Awards */
