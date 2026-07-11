@@ -331,7 +331,7 @@ class PublicationsManager {
 
         const statsElement = document.querySelector('.footer-section p[style*="font-size: 2rem"]');
         if (statsElement) {
-            statsElement.textContent = `${totalPapers}+`;
+            statsElement.textContent = `${Math.floor(totalPapers / 100) * 100}+`;
         }
     }
 }

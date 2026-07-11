@@ -168,7 +168,7 @@ Edit CSS variables in `css/styles.css`:
 ### GitHub Pages
 1. Copy contents to repository root or `docs/` folder
 2. Enable GitHub Pages in repository settings
-3. Site will be live at `https://ctpelok77.github.io`
+3. Site will be live at `https://michael-katz-ai.github.io/`
 
 ### Alternative: Keep Both Sites
 - Keep old site at root
