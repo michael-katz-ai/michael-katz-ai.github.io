@@ -21,16 +21,17 @@
           "papers": [
             {
               "bibtex_key": "katz-et-al-icml2026",
-              "title": "Make Planning Research Rigorous Again!",
+              "title": "Position: Make Planning Research Rigorous Again!",
               "authors": [
                 "Michael Katz",
                 "Harsha Kokel",
                 "Christian Muise",
-                "Shirin Sohrabi and Sarath Sreedharan"
+                "Shirin Sohrabi",
+                "Sarath Sreedharan"
               ],
               "year": "2026",
               "venue": "Proceedings of the Forty-Third International Conference on Machine Learning (ICML 2026)",
-              "pdf": "papers/katz-et-al-arxiv2025a.pdf",
+              "pdf": "papers/katz-et-al-icml2026.pdf",
               "type": "inproceedings"
             },
             {
@@ -72,7 +73,8 @@
               "authors": [
                 "Daniel Cao",
                 "Michael Katz",
-                "Harsha Kokel and Kavitha Srinivas",
+                "Harsha Kokel",
+                "Kavitha Srinivas",
                 "Shirin Sohrabi"
               ],
               "year": "2026",
@@ -91,7 +93,8 @@
                 "Guy Uziel",
                 "Michael Katz",
                 "Ateret Anaby Tavor",
-                "Roi Reichart and Sarah Keren"
+                "Roi Reichart",
+                "Sarah Keren"
               ],
               "year": "2025",
               "venue": "AAAI 2025 Workshop on Planning in the Era of LLMs (LM4Plan)",
@@ -179,8 +182,8 @@
               "authors": [
                 "Katharina Stein",
                 "Nils Hodel",
-                "Daniel Fi\u0161er",
-                "J\u00f6rg Hoffmann",
+                "Daniel Fišer",
+                "Jörg Hoffmann",
                 "Michael Katz",
                 "Alexander Koller"
               ],
@@ -213,7 +216,8 @@
               "authors": [
                 "Harsha Kokel",
                 "Michael Katz",
-                "Kavitha Srinivas and Shirin Sohrabi"
+                "Kavitha Srinivas",
+                "Shirin Sohrabi"
               ],
               "year": "2025",
               "venue": "Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2025)",
@@ -226,7 +230,8 @@
               "authors": [
                 "Harsha Kokel",
                 "Michael Katz",
-                "Kavitha Srinivas and Shirin Sohrabi"
+                "Kavitha Srinivas",
+                "Shirin Sohrabi"
               ],
               "year": "2026",
               "venue": "Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026)",
@@ -240,7 +245,8 @@
                 "Sola Shirai",
                 "Kavitha Srinivas",
                 "Julian Dolby",
-                "Michael Katz and Horst Samulowitz",
+                "Michael Katz",
+                "Horst Samulowitz",
                 "Shirin Sohrabi"
               ],
               "year": "2025",
@@ -523,7 +529,7 @@
               "title": "How to Relax a Bisimulation?",
               "authors": [
                 "Michael Katz",
-                "J\u00f6rg Hoffmann",
+                "Jörg Hoffmann",
                 "Malte Helmert"
               ],
               "year": "2012",
@@ -634,7 +640,7 @@
               "title": "On Producing Shortest Cost-Optimal Plans",
               "authors": [
                 "Michael Katz",
-                "Gabriele R\u00f6ger",
+                "Gabriele Röger",
                 "Malte Helmert"
               ],
               "year": "2022",
@@ -678,7 +684,7 @@
               "title": "Red-Black Relaxed Plan Heuristics",
               "authors": [
                 "Michael Katz",
-                "J\u00f6rg Hoffmann",
+                "Jörg Hoffmann",
                 "Carmel Domshlak"
               ],
               "year": "2013",
@@ -691,7 +697,7 @@
               "title": "Who Said We Need to Relax \\em All Variables?",
               "authors": [
                 "Michael Katz",
-                "J\u00f6rg Hoffmann",
+                "Jörg Hoffmann",
                 "Carmel Domshlak"
               ],
               "year": "2013",
@@ -704,7 +710,7 @@
               "title": "Red-Black Relaxed Plan Heuristics Reloaded",
               "authors": [
                 "Michael Katz",
-                "J\u00f6rg Hoffmann"
+                "Jörg Hoffmann"
               ],
               "year": "2013",
               "venue": "Proceedings of the Sixth Annual Symposium on Combinatorial Search (SoCS 2013)",
@@ -716,7 +722,7 @@
               "title": "Pushing the Limits of Partial Delete Relaxation: Red-Black DAG Heuristics",
               "authors": [
                 "Michael Katz",
-                "J\u00f6rg Hoffmann"
+                "Jörg Hoffmann"
               ],
               "year": "2014",
               "venue": "ICAPS 2014 Workshop on Heuristics and Search for Domain-independent Planning (HSDIP)",
@@ -728,7 +734,7 @@
               "title": "Red-black planning: A New Systematic Approach to Partial Delete Relaxation",
               "authors": [
                 "Carmel Domshlak",
-                "J\u00f6rg Hoffmann",
+                "Jörg Hoffmann",
                 "Michael Katz"
               ],
               "year": "2015",
@@ -751,10 +757,10 @@
               "bibtex_key": "fiser-et-al-ijcai2021",
               "title": "Custom-Design of FDR Encodings: The Case of Red-Black Planning",
               "authors": [
-                "Daniel Fi\u0161er",
+                "Daniel Fišer",
                 "Daniel Gnad",
                 "Michael Katz",
-                "J\u00f6rg Hoffmann"
+                "Jörg Hoffmann"
               ],
               "year": "2021",
               "venue": "Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)",
@@ -946,7 +952,8 @@
               "authors": [
                 "Dominik Winterer",
                 "Yusra Alkhazraji",
-                "Michael Katz and Martin Wehrle"
+                "Michael Katz",
+                "Martin Wehrle"
               ],
               "year": "2017",
               "venue": "Proceedings of the Twenty-Seventh International Conference on Automated Planning and Scheduling (ICAPS 2017)",
@@ -957,7 +964,7 @@
               "bibtex_key": "roeger-et-al-icaps2018",
               "title": "Symmetry-based Task Reduction for Relaxed Reachability Analysis",
               "authors": [
-                "Gabriele R\u00f6ger",
+                "Gabriele Röger",
                 "Silvan Sievers",
                 "Michael Katz"
               ],
@@ -971,7 +978,7 @@
               "title": "Theoretical Foundations for Structural Symmetries of Lifted PDDL Tasks",
               "authors": [
                 "Silvan Sievers",
-                "Gabriele R\u00f6ger",
+                "Gabriele Röger",
                 "Martin Wehrle",
                 "Michael Katz"
               ],
@@ -986,7 +993,8 @@
               "authors": [
                 "Cameron Allen",
                 "Anita de Mello Koch",
-                "Harsha Kokel and George Konidaris",
+                "Harsha Kokel",
+                "George Konidaris",
                 "Michael Katz"
               ],
               "year": "2026",
@@ -1044,7 +1052,8 @@
                 "Junkyu Lee",
                 "Michael Katz",
                 "Don Joven Agravante",
-                "Miao Liu and Tim Klinger",
+                "Miao Liu",
+                "Tim Klinger",
                 "Murray Campbell",
                 "Shirin Sohrabi",
                 "Gerald Tesauro"
@@ -1094,7 +1103,8 @@
               "authors": [
                 "Cameron Allen",
                 "Michael Katz",
-                "Tim Klinger and George Konidaris",
+                "Tim Klinger",
+                "George Konidaris",
                 "Matthew Riemer",
                 "Gerald Tesauro"
               ],
@@ -1110,7 +1120,8 @@
                 "Clement Gehring",
                 "Masataro Asai",
                 "Rohan Chitnis",
-                "Tom Silver and Leslie Pack Kaelbling",
+                "Tom Silver",
+                "Leslie Pack Kaelbling",
                 "Shirin Sohrabi",
                 "Michael Katz"
               ],
@@ -1177,9 +1188,11 @@
               "title": "Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts",
               "authors": [
                 "Oktie Hassanzadeh",
-                "Debarun Bhattacharjya and Mark Feblowitz",
+                "Debarun Bhattacharjya",
+                "Mark Feblowitz",
                 "Kavitha Srinivas",
-                "Michael Perrone and Shirin Sohrabi",
+                "Michael Perrone",
+                "Shirin Sohrabi",
                 "Michael Katz"
               ],
               "year": "2019",
@@ -1230,7 +1243,8 @@
               "authors": [
                 "Christian Muise",
                 "Florian Pommerening",
-                "Jendrik Seipp and Michael Katz"
+                "Jendrik Seipp",
+                "Michael Katz"
               ],
               "year": "2022",
               "venue": "ICAPS 2022 System Demonstrations and Exhibits",
@@ -1243,7 +1257,8 @@
               "authors": [
                 "Patrick Ferber",
                 "Tengfei Ma",
-                "Siyu Huo and Jie Chen",
+                "Siyu Huo",
+                "Jie Chen",
                 "Michael Katz"
               ],
               "year": "2019",
@@ -1335,7 +1350,19 @@
               "bibtex_key": "ferber-et-al-ipc2023a",
               "title": "Hapori Delfi",
               "authors": [
-                "Patrick Ferber and Michael Katz and Jendrik Seipp and Silvan Sievers and Daniel Borrajo and Isabel Cenamor and Tomas de la Rosa and Fernando Fernandez-Rebollo and Carlos Linares L\u00f3pez and Sergio Nu\u00f1ez and Alberto Pozanco and Horst Samulowitz and Shirin Sohrabi"
+                "Patrick Ferber",
+                "Michael Katz",
+                "Jendrik Seipp",
+                "Silvan Sievers",
+                "Daniel Borrajo",
+                "Isabel Cenamor",
+                "Tomas de la Rosa",
+                "Fernando Fernandez-Rebollo",
+                "Carlos Linares López",
+                "Sergio Nuñez",
+                "Alberto Pozanco",
+                "Horst Samulowitz",
+                "Shirin Sohrabi"
               ],
               "year": "2023",
               "venue": "Tenth International Planning Competition (IPC-10): Planner Abstracts",
@@ -1346,7 +1373,19 @@
               "bibtex_key": "ferber-et-al-ipc2023b",
               "title": "Hapori Explainable Decision Tree",
               "authors": [
-                "Patrick Ferber and Michael Katz and Jendrik Seipp and Silvan Sievers and Daniel Borrajo and Isabel Cenamor and Tomas de la Rosa and Fernando Fernandez-Rebollo and Carlos Linares L\u00f3pez and Sergio Nu\u00f1ez and Alberto Pozanco and Horst Samulowitz and Shirin Sohrabi"
+                "Patrick Ferber",
+                "Michael Katz",
+                "Jendrik Seipp",
+                "Silvan Sievers",
+                "Daniel Borrajo",
+                "Isabel Cenamor",
+                "Tomas de la Rosa",
+                "Fernando Fernandez-Rebollo",
+                "Carlos Linares López",
+                "Sergio Nuñez",
+                "Alberto Pozanco",
+                "Horst Samulowitz",
+                "Shirin Sohrabi"
               ],
               "year": "2023",
               "venue": "Tenth International Planning Competition (IPC-10): Planner Abstracts",
@@ -1357,7 +1396,19 @@
               "bibtex_key": "ferber-et-al-ipc2023c",
               "title": "Hapori Explainable Linear Regression",
               "authors": [
-                "Patrick Ferber and Michael Katz and Jendrik Seipp and Silvan Sievers and Daniel Borrajo and Isabel Cenamor and Tomas de la Rosa and Fernando Fernandez-Rebollo and Carlos Linares L\u00f3pez and Sergio Nu\u00f1ez and Alberto Pozanco and Horst Samulowitz and Shirin Sohrabi"
+                "Patrick Ferber",
+                "Michael Katz",
+                "Jendrik Seipp",
+                "Silvan Sievers",
+                "Daniel Borrajo",
+                "Isabel Cenamor",
+                "Tomas de la Rosa",
+                "Fernando Fernandez-Rebollo",
+                "Carlos Linares López",
+                "Sergio Nuñez",
+                "Alberto Pozanco",
+                "Horst Samulowitz",
+                "Shirin Sohrabi"
               ],
               "year": "2023",
               "venue": "Tenth International Planning Competition (IPC-10): Planner Abstracts",
@@ -1368,7 +1419,19 @@
               "bibtex_key": "ferber-et-al-ipc2023d",
               "title": "Hapori Greedy",
               "authors": [
-                "Patrick Ferber and Michael Katz and Jendrik Seipp and Silvan Sievers and Daniel Borrajo and Isabel Cenamor and Tomas de la Rosa and Fernando Fernandez-Rebollo and Carlos Linares L\u00f3pez and Sergio Nu\u00f1ez and Alberto Pozanco and Horst Samulowitz and Shirin Sohrabi"
+                "Patrick Ferber",
+                "Michael Katz",
+                "Jendrik Seipp",
+                "Silvan Sievers",
+                "Daniel Borrajo",
+                "Isabel Cenamor",
+                "Tomas de la Rosa",
+                "Fernando Fernandez-Rebollo",
+                "Carlos Linares López",
+                "Sergio Nuñez",
+                "Alberto Pozanco",
+                "Horst Samulowitz",
+                "Shirin Sohrabi"
               ],
               "year": "2023",
               "venue": "Tenth International Planning Competition (IPC-10): Planner Abstracts",
@@ -1379,7 +1442,19 @@
               "bibtex_key": "ferber-et-al-ipc2023e",
               "title": "Hapori IBaCoP2",
               "authors": [
-                "Patrick Ferber and Michael Katz and Jendrik Seipp and Silvan Sievers and Daniel Borrajo and Isabel Cenamor and Tomas de la Rosa and Fernando Fernandez-Rebollo and Carlos Linares L\u00f3pez and Sergio Nu\u00f1ez and Alberto Pozanco and Horst Samulowitz and Shirin Sohrabi"
+                "Patrick Ferber",
+                "Michael Katz",
+                "Jendrik Seipp",
+                "Silvan Sievers",
+                "Daniel Borrajo",
+                "Isabel Cenamor",
+                "Tomas de la Rosa",
+                "Fernando Fernandez-Rebollo",
+                "Carlos Linares López",
+                "Sergio Nuñez",
+                "Alberto Pozanco",
+                "Horst Samulowitz",
+                "Shirin Sohrabi"
               ],
               "year": "2023",
               "venue": "Tenth International Planning Competition (IPC-10): Planner Abstracts",
@@ -1390,7 +1465,19 @@
               "bibtex_key": "ferber-et-al-ipc2023f",
               "title": "Hapori MIPlan",
               "authors": [
-                "Patrick Ferber and Michael Katz and Jendrik Seipp and Silvan Sievers and Daniel Borrajo and Isabel Cenamor and Tomas de la Rosa and Fernando Fernandez-Rebollo and Carlos Linares L\u00f3pez and Sergio Nu\u00f1ez and Alberto Pozanco and Horst Samulowitz and Shirin Sohrabi"
+                "Patrick Ferber",
+                "Michael Katz",
+                "Jendrik Seipp",
+                "Silvan Sievers",
+                "Daniel Borrajo",
+                "Isabel Cenamor",
+                "Tomas de la Rosa",
+                "Fernando Fernandez-Rebollo",
+                "Carlos Linares López",
+                "Sergio Nuñez",
+                "Alberto Pozanco",
+                "Horst Samulowitz",
+                "Shirin Sohrabi"
               ],
               "year": "2023",
               "venue": "Tenth International Planning Competition (IPC-10): Planner Abstracts",
@@ -1401,7 +1488,19 @@
               "bibtex_key": "ferber-et-al-ipc2023g",
               "title": "Hapori Stone Soup",
               "authors": [
-                "Patrick Ferber and Michael Katz and Jendrik Seipp and Silvan Sievers and Daniel Borrajo and Isabel Cenamor and Tomas de la Rosa and Fernando Fernandez-Rebollo and Carlos Linares L\u00f3pez and Sergio Nu\u00f1ez and Alberto Pozanco and Horst Samulowitz and Shirin Sohrabi"
+                "Patrick Ferber",
+                "Michael Katz",
+                "Jendrik Seipp",
+                "Silvan Sievers",
+                "Daniel Borrajo",
+                "Isabel Cenamor",
+                "Tomas de la Rosa",
+                "Fernando Fernandez-Rebollo",
+                "Carlos Linares López",
+                "Sergio Nuñez",
+                "Alberto Pozanco",
+                "Horst Samulowitz",
+                "Shirin Sohrabi"
               ],
               "year": "2023",
               "venue": "Tenth International Planning Competition (IPC-10): Planner Abstracts",
@@ -1414,7 +1513,7 @@
               "authors": [
                 "Yusra Alkhazraji",
                 "Michael Katz",
-                "Robert Mattm\u00fcller",
+                "Robert Mattmüller",
                 "Florian Pommerening",
                 "Alexander Shleyfman",
                 "Martin Wehrle"
@@ -1429,7 +1528,7 @@
               "title": "Mercury Planner: Pushing the Limits of Partial Delete Relaxation",
               "authors": [
                 "Michael Katz",
-                "J\u00f6rg Hoffmann"
+                "Jörg Hoffmann"
               ],
               "year": "2014",
               "venue": "Eighth International Planning Competition (IPC-8): Planner Abstracts",
@@ -1473,12 +1572,15 @@
               "title": "(PARIS) Planning Algorithms for Reconfiguring Independent Sets",
               "authors": [
                 "Remo Christen",
-                "Salom\u00e9 Eriksson",
-                "Michael Katz and Emil Keyder",
+                "Salomé Eriksson",
+                "Michael Katz",
+                "Emil Keyder",
                 "Christian Muise",
-                "Alice Petrov and Florian Pommerening",
+                "Alice Petrov",
+                "Florian Pommerening",
                 "Jendrik Seipp",
-                "Silvan Sievers and David Speck"
+                "Silvan Sievers",
+                "David Speck"
               ],
               "year": "2022",
               "venue": "First CoRe Challenge: Solver and Graph Descriptions",
@@ -1490,10 +1592,12 @@
               "title": "PARIS: Planning Algorithms for Reconfiguring Independent Sets",
               "authors": [
                 "Remo Christen",
-                "Salom\u00e9 Eriksson",
-                "Michael Katz and Christian Muise",
+                "Salomé Eriksson",
+                "Michael Katz",
+                "Christian Muise",
                 "Alice Petrov",
-                "Florian Pommerening and Jendrik Seipp",
+                "Florian Pommerening",
+                "Jendrik Seipp",
                 "Silvan Sievers",
                 "David Speck"
               ],
@@ -1508,9 +1612,11 @@
               "authors": [
                 "Haritha Ananthakrishanan",
                 "Harsha Kokel",
-                "Kelsey Sikes and Debarun Bhattacharjya",
+                "Kelsey Sikes",
+                "Debarun Bhattacharjya",
                 "Michael Katz",
-                "Shirin Sohrabi and Kavitha Srinivas"
+                "Shirin Sohrabi",
+                "Kavitha Srinivas"
               ],
               "year": "2026",
               "venue": "Proceedings of the Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)",
