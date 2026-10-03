@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Blog - Michael Katz - Perspectives and research articles on AI planning, LLMs, world models, and agent architectures">
+    <meta name="keywords" content="Michael Katz, AI Planning, LLMs, Blog, Automated Planning, Generalized Planning, World Models, AppWorld, AutoToS, HCL-GP">
+    <meta name="author" content="Michael Katz">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Blog - Michael Katz">
+    <meta property="og:description" content="Perspectives and research articles on AI planning, LLMs, world models, and agent architectures">
+    <meta property="og:url" content="https://michael-katz-ai.github.io/blogs/">
+    
+    <title>Blog - Michael Katz</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .blog-card {
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--gray-200);
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transition: var(--transition);
+        }
+
+        .blog-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--primary-blue);
+        }
+
+        .blog-card-date {
+            color: var(--gray-600);
+            font-size: 0.9rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .blog-card-title {
+            font-size: 1.35rem;
+            color: var(--gray-900);
+            margin-bottom: 0.75rem;
+            line-height: 1.4;
+        }
+
+        .blog-card-title a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .blog-card-title a:hover {
+            color: var(--primary-blue);
+        }
+
+        .blog-card-excerpt {
+            color: var(--gray-700);
+            font-size: 1rem;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+            flex-grow: 1;
+        }
+
+        .blog-card-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .blog-card-tag {
+            background: var(--gray-100);
+            color: var(--primary-blue);
+            padding: 0.2rem 0.6rem;
+            border-radius: 16px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .read-more-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            color: var(--primary-blue);
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .read-more-link:hover {
+            color: var(--secondary-blue);
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="../index.html" class="logo">Michael Katz</a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../publications.html">Publications</a></li>
+                <li><a href="../research.html">Research & Software</a></li>
+                <li><a href="index.html" class="active">Blogs</a></li>
+                <li><a href="../about.html">About</a></li>
+                <li><a href="../contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="hero" style="padding: 3.5rem 1.5rem;">
+        <div class="container" style="text-align: center;">
+            <h1 style="color: white; margin-bottom: 0.75rem;">Research Blog</h1>
+            <p style="font-size: 1.25rem; opacity: 0.95;">Perspectives on AI planning, world models, and language model integration</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container" style="padding-top: 3rem; padding-bottom: 5rem;">
+        <div class="section-header">
+            <h2 class="section-title">Latest Articles</h2>
+            <p class="section-subtitle">Deep dives and positions on reliable agent architectures</p>
+        </div>
+
+        <div class="blog-grid">
+            <!-- Article 1 -->
+            <article class="blog-card fade-in">
+                <div>
+                    <div class="blog-card-date">September 2026</div>
+                    <h3 class="blog-card-title">
+                        <a href="planning-in-the-llm-era/">Planning in the LLM Era: Build the Planner, Not Just the Plan</a>
+                    </h3>
+                    <p class="blog-card-excerpt">
+                        Why reliable and efficient LLM-based planning should focus on generating reusable planners and programmatic world models rather than solving every instance from scratch.
+                    </p>
+                    <div class="blog-card-tags">
+                        <span class="blog-card-tag">AI Planning</span>
+                        <span class="blog-card-tag">LLMs</span>
+                        <span class="blog-card-tag">World Models</span>
+                        <span class="blog-card-tag">AutoToS</span>
+                        <span class="blog-card-tag">ICAPS 2026</span>
+                    </div>
+                </div>
+                <div>
+                    <a href="planning-in-the-llm-era/" class="read-more-link">Read article &rarr;</a>
+                </div>
+            </article>
+
+            <!-- Article 2 -->
+            <article class="blog-card fade-in">
+                <div>
+                    <div class="blog-card-date">May 2026</div>
+                    <h3 class="blog-card-title">
+                        <a href="hcl-gp/">Learning from Success: How Reusable Policies Drive State-of-the-Art Performance on AppWorld</a>
+                    </h3>
+                    <p class="blog-card-excerpt">
+                        How Hierarchical Component Learning for Generalized Policies (HCL-GP) combines generalized planning, hierarchical decomposition, and execution-grounded skill learning to achieve 97.8% Challenge SGC on AppWorld.
+                    </p>
+                    <div class="blog-card-tags">
+                        <span class="blog-card-tag">AI Agents</span>
+                        <span class="blog-card-tag">Generalized Planning</span>
+                        <span class="blog-card-tag">AppWorld</span>
+                        <span class="blog-card-tag">HCL-GP</span>
+                    </div>
+                </div>
+                <div>
+                    <a href="hcl-gp/" class="read-more-link">Read article &rarr;</a>
+                </div>
+            </article>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2026 Michael Katz. All rights reserved.</p>
+            <div class="social-links">
+                <a href="https://scholar.google.com/citations?user=YQ12vF0AAAAJ" aria-label="Google Scholar">🎓 Scholar</a>
+                <a href="https://github.com/michael-katz-ai" aria-label="GitHub">💻 GitHub</a>
+                <a href="https://linkedin.com/in/michael-katz-ai" aria-label="LinkedIn">💼 LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
