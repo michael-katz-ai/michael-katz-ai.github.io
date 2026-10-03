@@ -213,9 +213,9 @@
 
             <p>Early work on LLM-based planning treated each problem independently. The model received a problem and generated a complete plan, often in a single call. These methods achieved limited success on simple cases but struggled when solutions required substantial search, reconsideration of earlier choices, or generalization to unseen instances.</p>
 
-            <p>This led naturally to approaches that add search, backtracking, or repeated self-correction around the language model, including Tree of Thoughts, Graph of Thoughts, and Algorithm of Thoughts.</p>
+            <p>This led naturally to approaches that wrap search, backtracking, or repeated self-correction around the language model — using LLM calls to obtain successors, check whether a state is a goal, or estimate how far it is from the goal — including Tree of Thoughts, Graph of Thoughts, and Algorithm of Thoughts.</p>
 
-            <p>But planning search makes an enormous number of calls to operations such as successor generation, goal testing, and heuristic evaluation. Implementing these operations as LLM calls is prohibitively expensive. To remain practical, LLM-based approaches heavily restrict search depth, width, or frontier size. As analyzed in <a href="../../papers/neurips2024.pdf"><em>Thought of Search</em></a>, the result is often neither sound nor complete, despite requiring many expensive model calls.</p>
+            <p>But planning search makes an enormous number of calls to operations such as successor generation, goal testing, and heuristic evaluation. Implementing these operations as LLM calls is prohibitively expensive. To remain practical, LLM-based approaches heavily restrict search depth, width, or frontier size. As analyzed in <a href="../../papers/neurips2024.pdf"><em>Thought of Search</em></a>, recent trends abandon both soundness and completeness for the sake of inefficiency.</p>
 
             <p>There is also a more basic inefficiency: the work is discarded after each instance.</p>
 
