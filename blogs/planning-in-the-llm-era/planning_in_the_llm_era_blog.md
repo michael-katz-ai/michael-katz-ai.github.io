@@ -42,7 +42,7 @@ The next problem from the same domain starts over. The model again reconstructs 
 
 This is particularly difficult to justify for hard planning problems. Such problems are rarely isolated one-off events. Manufacturing, logistics, workflow management, robotics, web interaction, and enterprise operations all involve families of related instances. Initial states and goals change, but much of the underlying structure remains stable.
 
-If a problem is hard enough to justify substantial modeling, search, and verification, that investment should usually be reused.
+**If a problem is hard enough to justify substantial modeling, search, and verification, that investment should usually be reused.**
 
 ## Why Runtime Plan Generation Does Not Scale
 
