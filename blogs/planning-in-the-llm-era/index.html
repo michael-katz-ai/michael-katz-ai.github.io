@@ -198,7 +198,7 @@
 
             <blockquote>
                 <p>“Planning is the art and practice of thinking before acting: of reviewing the courses of action one has available and predicting their expected (and unexpected) results to be able to choose the course of action most beneficial with respect to one’s goals.”</p>
-                <p>— Patrik Haslum, <em>Admissible Heuristics for Automated Planning</em> (2006)</p>
+                <p>— Patrik Haslum, PhD Thesis, 2006</p>
             </blockquote>
 
             <p>This description captures something essential about planning: considering possible actions and their consequences before committing to one. But the rise of large language models raises a harder question. When an LLM produces a plan, is it solving the problem at hand, or is it drawing on plans and procedures encountered during training?</p>
@@ -207,15 +207,15 @@
 
             <p>Traditional domain-independent planners operate over explicit models. Given actions, an initial state, and a goal, they search for a solution to a new problem instance. Language models derive much of their apparent generality from having absorbed an enormous range of domains during training. They can often produce plausible plans in familiar settings, but their performance is less reliable when problems require systematic exploration or differ substantially from the training distribution.</p>
 
-            <p>In our paper, <a href="https://arxiv.org/abs/2605.21902" target="_blank" rel="noopener noreferrer"><em>Planning in the LLM Era: Building for Reliability and Efficiency</em></a>, we argue that the most promising role for LLMs may therefore not be to generate individual plans. It may be to generate <strong>reusable planners</strong>.</p>
+            <p>In our paper, <a href="../../papers/katz-et-al-icaps2026.pdf"><em>Planning in the LLM Era: Building for Reliability and Efficiency</em></a>, we argue that the most promising role for LLMs may therefore not be to generate individual plans. It may be to generate <strong>reusable planners</strong>.</p>
 
             <h2>The problem with solving every instance from scratch</h2>
 
             <p>Early work on LLM-based planning treated each problem independently. The model received a problem and generated a complete plan, often in a single call. These methods achieved limited success on simple cases but struggled when solutions required substantial search, reconsideration of earlier choices, or generalization to unseen instances.</p>
 
-            <p>This led naturally to approaches that add search, backtracking, or repeated self-correction around the language model, including <a href="https://arxiv.org/abs/2305.10601" target="_blank" rel="noopener noreferrer">Tree of Thoughts</a>, <a href="https://arxiv.org/abs/2308.09687" target="_blank" rel="noopener noreferrer">Graph of Thoughts</a>, and <a href="https://arxiv.org/abs/2308.10379" target="_blank" rel="noopener noreferrer">Algorithm of Thoughts</a>.</p>
+            <p>This led naturally to approaches that add search, backtracking, or repeated self-correction around the language model, including Tree of Thoughts, Graph of Thoughts, and Algorithm of Thoughts.</p>
 
-            <p>But planning search makes an enormous number of calls to operations such as successor generation, goal testing, and heuristic evaluation. Implementing these operations as LLM calls is prohibitively expensive. To remain practical, LLM-based approaches heavily restrict search depth, width, or frontier size. As analyzed in <a href="https://arxiv.org/abs/2404.11833" target="_blank" rel="noopener noreferrer"><em>Thought of Search</em></a>, the result is often neither sound nor complete, despite requiring many expensive model calls.</p>
+            <p>But planning search makes an enormous number of calls to operations such as successor generation, goal testing, and heuristic evaluation. Implementing these operations as LLM calls is prohibitively expensive. To remain practical, LLM-based approaches heavily restrict search depth, width, or frontier size. As analyzed in <a href="../../papers/neurips2024.pdf"><em>Thought of Search</em></a>, the result is often neither sound nor complete, despite requiring many expensive model calls.</p>
 
             <p>There is also a more basic inefficiency: the work is discarded after each instance.</p>
 
@@ -224,6 +224,16 @@
             <p>This is particularly difficult to justify for hard planning problems. Such problems are rarely isolated one-off events. Manufacturing, logistics, workflow management, robotics, web interaction, and enterprise operations all involve families of related instances. Initial states and goals change, but much of the underlying structure remains stable.</p>
 
             <p>If a problem is hard enough to justify substantial modeling, search, and verification, that investment should usually be reused.</p>
+
+            <h2>Why Runtime Plan Generation Does Not Scale</h2>
+
+            <p>The appeal of direct plan generation is obvious: provide a description of the task and let the model produce a sequence of actions. For simple problems, this can work surprisingly well. The difficulty is that realistic planning domains are not simple.</p>
+
+            <p>As domains grow, actions acquire applicability conditions, consume resources, interact with one another, and produce effects that may only become relevant many steps later. In such settings, valid plans occupy only a tiny fraction of the possible action sequences. Most candidate plans violate some constraint, achieve goals in the wrong order, exhaust resources, or create conflicts that become visible only after extended execution.</p>
+
+            <p>Verification can detect many of these failures. However, detecting that a plan is wrong is fundamentally different from constructing a correct one. A verifier can reject invalid plans, but it rarely provides enough information to directly synthesize a valid replacement. The underlying challenge remains a search problem: identifying one of the few action sequences that satisfy all requirements simultaneously.</p>
+
+            <p>This distinction becomes increasingly important as problem complexity grows. Better language models may generate better candidate plans, but they do not eliminate the combinatorial structure of the search space. The central question is therefore not how to make the model generate plans more fluently, but how to use the model to construct reusable mechanisms that can systematically navigate that search space.</p>
 
             <h2>Move the LLM from inference time to construction time</h2>
 
@@ -266,7 +276,7 @@
 
             <p>In standard LLM-centric agent architectures (such as Tree of Thoughts or RAP), the LLM itself is queried at runtime to act as an implicit world model simulator. However, querying a neural network at every node expansion is cripplingly slow and expensive, forcing systems to artificially truncate search depth and sacrifice completeness.</p>
 
-            <p>Rather than running the LLM as a runtime simulator, <a href="https://arxiv.org/abs/2404.11833" target="_blank" rel="noopener noreferrer"><strong>Thought of Search (ToS)</strong></a> uses the LLM at construction time to generate an executable, <strong>programmatic world model</strong> (e.g., in Python). Once the transition dynamics (<code>succ</code>) and goal condition (<code>is_goal</code>) are synthesized into standalone code, standard blind search algorithms (BFS, DFS, IDDFS, etc.) can run thousands of state transitions per second without a single LLM call. <a href="https://arxiv.org/abs/2408.11326" target="_blank" rel="noopener noreferrer"><strong>AutoToS</strong></a> automates this pipeline end-to-end, employing generic and domain-specific tests, validator feedback, and iterative reflection to synthesize sound and complete programmatic world models.</p>
+            <p>Rather than running the LLM as a runtime simulator, <a href="../../papers/neurips2024.pdf"><strong>Thought of Search (ToS)</strong></a> uses the LLM at construction time to generate an executable, <strong>programmatic world model</strong> (e.g., in Python). Once the transition dynamics (<code>succ</code>) and goal condition (<code>is_goal</code>) are synthesized into standalone code, standard blind search algorithms (BFS, DFS, IDDFS, etc.) can run thousands of state transitions per second without a single LLM call. <a href="../../papers/cao-et-al-icaps2026.pdf"><strong>AutoToS</strong></a> automates this pipeline end-to-end, employing generic and domain-specific tests, validator feedback, and iterative reflection to synthesize sound and complete programmatic world models.</p>
 
             <p>Recent work extends this to generating domain-specific heuristic functions (<code>h</code>), enabling informed search algorithms like A* and GBFS. In all these cases, the principle is identical: <strong>use the language model to synthesize the world model and search machinery once, then let classical search explore the state space at native execution speeds.</strong></p>
 
@@ -285,11 +295,11 @@
 
             <p>It also allows the system to exploit decades of research on efficient planning algorithms rather than recreating planning through language-model inference.</p>
 
-            <p>Several systems explore this direction. <a href="https://arxiv.org/abs/2405.06650" target="_blank" rel="noopener noreferrer"><em>Large Language Models as Planning Domain Generators</em></a> evaluates generated domains through their operational semantics, comparing the sets of plans they permit. <a href="https://arxiv.org/abs/2405.04215" target="_blank" rel="noopener noreferrer">NL2Plan</a> incrementally extracts the information needed to construct a complete PDDL task from a minimal textual description. A recent <a href="https://arxiv.org/abs/2503.18971" target="_blank" rel="noopener noreferrer">survey of LLMs as planning formalizers</a> organizes this growing body of work and its open challenges.</p>
+            <p>Several systems explore this direction. <a href="../../papers/icaps2024a.pdf"><em>Large Language Models as Planning Domain Generators</em></a> evaluates generated domains through their operational semantics, comparing the sets of plans they permit. <a href="https://arxiv.org/abs/2405.04215" target="_blank" rel="noopener noreferrer">NL2Plan</a> incrementally extracts the information needed to construct a complete PDDL task from a minimal textual description. A recent <a href="https://arxiv.org/abs/2503.18971" target="_blank" rel="noopener noreferrer">survey of LLMs as planning formalizers</a> organizes this growing body of work and its open challenges.</p>
 
             <p>However, syntactically valid PDDL is not necessarily a correct model. A generated domain may contain missing preconditions, incorrect effects, invalid invariants, or unintended behaviors. Validating a plan against such a model does not establish that the model accurately reflects the intended domain dynamics.</p>
 
-            <p>Recent work by Oswald et al. (<a href="https://arxiv.org/abs/2604.08712" target="_blank" rel="noopener noreferrer"><em>Model Space Reasoning as Search in Feedback Space for Planning Domain Generation</em></a>) demonstrates how to address this: treating domain generation as <strong>heuristic search over model and feedback space</strong>. Rather than accepting a single LLM generation or following simple linear prompt repair, the system searches through candidate domain revisions guided by symbolic feedback—including plan validation with VAL and <strong>fact/action landmarks</strong> extracted from ground-truth task specifications. This moves knowledge engineering from blind prompting toward systematic exploration, testing, and automated repair of operational semantics.</p>
+            <p>Recent work by Oswald et al. (<a href="../../papers/oswald-et-al-iclr2026wswm.pdf"><em>Model Space Reasoning as Search in Feedback Space for Planning Domain Generation</em></a>) demonstrates how to address this: treating domain generation as <strong>heuristic search over model and feedback space</strong>. Rather than accepting a single LLM generation or following simple linear prompt repair, the system searches through candidate domain revisions guided by symbolic feedback—including plan validation with VAL and <strong>fact/action landmarks</strong> extracted from ground-truth task specifications. This moves knowledge engineering from blind prompting toward systematic exploration, testing, and automated repair of operational semantics.</p>
 
             <h2>3. Generate generalized policies</h2>
 
@@ -297,11 +307,11 @@
 
             <p>This is closely connected to generalized planning. Instead of computing a separate plan for each instance, the result is a policy or program that maps states to actions and can be evaluated across many instances.</p>
 
-            <p><a href="https://arxiv.org/abs/2305.11014" target="_blank" rel="noopener noreferrer"><em>Generalized Planning in PDDL Domains with Pretrained Large Language Models</em></a> demonstrated that an LLM can synthesize Python programs intended to solve unseen tasks from the same domain, with automated debugging against training instances.</p>
+            <p><a href="../../papers/aaai2024a.pdf"><em>Generalized Planning in PDDL Domains with Pretrained Large Language Models</em></a> demonstrated that an LLM can synthesize Python programs intended to solve unseen tasks from the same domain, with automated debugging against training instances.</p>
 
             <p>However, a fundamental vulnerability of that early paradigm was its reliance on generating a free-form natural language strategy in a single shot and immediately translating it into code. If the high-level strategy was flawed, subsequent Python debugging could not fix the underlying conceptual failure.</p>
 
-            <p>Recent work by Stein et al. (<a href="https://arxiv.org/abs/2508.13876" target="_blank" rel="noopener noreferrer"><em>Improved Generalized Planning with LLMs Through Strategy Refinement and Reflection</em></a>) resolves this by decoupling <strong>strategy synthesis</strong> from <strong>code implementation</strong>:</p>
+            <p>Recent work by Stein et al. (<a href="../../papers/stein-et-al-icaps2026.pdf"><em>Improved Generalized Planning with LLMs Through Strategy Refinement and Reflection</em></a>) resolves this by decoupling <strong>strategy synthesis</strong> from <strong>code implementation</strong>:</p>
             <ul>
                 <li><strong>Structured Pseudocode Strategies</strong>: Rather than vague natural-language text, the strategy is generated as structured, algorithmic pseudocode with explicit loops and branch logic.</li>
                 <li><strong>Pre-Implementation Validation & Reflection</strong>: The pseudocode strategy is validated on example tasks <em>before</em> Python code generation. When errors occur, a reflection step prompts the LLM to pinpoint the exact failure in the strategy and iteratively refine the pseudocode.</li>
@@ -361,15 +371,13 @@
                 <p>Can language models help us construct reliable, efficient, and maintainable planning systems for new problem families?</p>
             </blockquote>
 
-            <p>Under this view, language models contribute broad prior knowledge, programming ability, and access to natural-language specifications. Planning contributes explicit semantics, systematic search, validation, and reusable reasoning mechanisms, with the focus specifically on generating reusable planners and minimizing inference-time dependence on the LLM.</p>
+            <p>Under this view, language models contribute broad prior knowledge, programming ability, and access to natural-language specifications. Planning contributes explicit semantics, systematic search, validation, and reusable reasoning mechanisms.</p>
 
-            <p>The goal is not to have the LLM think through every problem before acting. It is to use the LLM to build a mechanism capable of thinking through future problems.</p>
+            <p>Current agent architectures often treat every planning episode as a fresh reasoning problem. The model repeatedly reconstructs task dynamics, constraints, and solution strategies at inference time. In contrast, the approaches discussed here use LLMs to produce reusable planning machinery: search components, planning models, or domain-specific policies that can be validated, improved, and applied across many problem instances.</p>
 
-            <p>That may be the more consequential meaning of planning in the LLM era:</p>
+            <p>The long-term opportunity is therefore not merely to generate better plans, but to generate better planners. Planning in the LLM era should focus less on having a model reason through every new problem from scratch and more on using models to build explicit, executable, and verifiable mechanisms that can reason systematically for entire classes of problems.</p>
 
-            <blockquote>
-                <p><strong>Build the planner, not just the plan.</strong></p>
-            </blockquote>
+            <p>The latter scales through reuse. The former does not.</p>
 
             <h2>Further reading</h2>
 
