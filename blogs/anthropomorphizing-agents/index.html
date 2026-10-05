@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Stop Anthropomorphizing AI Agents! Why unsafe agent behavior is an engineering problem, not a character flaw.">
+    <meta name="keywords" content="AI Safety, AI Agents, AI Planning, Agent Design, IBM Research">
+    <meta name="author" content="Michael Katz">
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Stop Anthropomorphizing AI Agents!">
+    <meta property="og:description" content="When an AI agent takes an unsafe action, we often describe it as deceptive or misaligned. This language obscures the actual engineering problem.">
+
+    <title>Stop Anthropomorphizing AI Agents! - Michael Katz</title>
+    <link rel="stylesheet" href="../../css/styles.css">
+    <style>
+        .blog-article {
+            max-width: 820px;
+            margin: 0 auto;
+            background: white;
+            padding: 2.5rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--gray-200);
+            line-height: 1.8;
+            font-size: 1.1rem;
+            color: var(--gray-800);
+        }
+
+        .blog-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            align-items: center;
+            color: var(--gray-600);
+            font-size: 0.95rem;
+            margin-bottom: 2rem;
+            padding-bottom: 1.25rem;
+            border-bottom: 1px solid var(--gray-200);
+        }
+
+        .blog-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+
+        .blog-tag {
+            background: var(--gray-100);
+            color: var(--primary-blue);
+            padding: 0.2rem 0.65rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .blog-article h1 {
+            font-size: 2.25rem;
+            color: var(--gray-900);
+            line-height: 1.3;
+            margin-bottom: 1rem;
+        }
+
+        .blog-article h2 {
+            font-size: 1.55rem;
+            color: var(--primary-blue);
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.4rem;
+            border-bottom: 2px solid var(--gray-100);
+        }
+
+        .blog-article blockquote {
+            border-left: 4px solid var(--primary-blue);
+            background: var(--gray-50);
+            padding: 1.25rem 1.5rem;
+            margin: 1.75rem 0;
+            border-radius: 0 var(--border-radius) var(--border-radius) 0;
+            font-style: italic;
+            color: var(--gray-700);
+        }
+
+        .blog-article blockquote p {
+            margin: 0.5rem 0;
+        }
+
+        .blog-article blockquote p:first-child { margin-top: 0; }
+        .blog-article blockquote p:last-child { margin-bottom: 0; }
+
+        .blog-article ul, .blog-article ol {
+            margin: 1.25rem 0 1.5rem 1.75rem;
+        }
+
+        .blog-article li {
+            margin-bottom: 0.5rem;
+        }
+
+        .blog-article a {
+            color: var(--primary-blue);
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+
+        .blog-article a:hover {
+            color: var(--secondary-blue);
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--primary-blue);
+            text-decoration: none;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="nav-container">
+            <a href="../../index.html" class="logo">Michael Katz</a>
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="../../index.html">Home</a></li>
+                <li><a href="../../publications.html">Publications</a></li>
+                <li><a href="../../research.html">Research & Software</a></li>
+                <li><a href="../index.html" class="active">Blogs</a></li>
+                <li><a href="../../about.html">About</a></li>
+                <li><a href="../../contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="hero" style="padding: 3rem 1.5rem;">
+        <div class="container" style="text-align: center;">
+            <h1 style="color: white; margin-bottom: 0.75rem;">Research Blog</h1>
+            <p style="font-size: 1.2rem; opacity: 0.95;">Perspectives on AI planning, world models, and language model integration</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container" style="padding-top: 2rem; padding-bottom: 4rem;">
+        <a href="../index.html" class="back-link">&larr; Back to All Blogs</a>
+
+        <article class="blog-article">
+            <h1>Stop Anthropomorphizing AI Agents!</h1>
+
+            <div class="blog-meta">
+                <div><strong>Author:</strong> Michael Katz</div>
+                <div><strong>Date:</strong> October 2026</div>
+                <div class="blog-tags">
+                    <span class="blog-tag">AI safety</span>
+                    <span class="blog-tag">AI agents</span>
+                    <span class="blog-tag">automated planning</span>
+                </div>
+            </div>
+
+            <p>When an AI agent takes an unsafe action, we often describe it as deceptive, reckless, power-seeking, or misaligned. This language may be intuitive, but it obscures the actual engineering problem.</p>
+
+            <p>AI agents operate within environments that we define. We choose their tools, permissions, interfaces, objectives, and available actions. If an environment allows an agent to delete a database, disclose sensitive information, transfer money, or operate machinery without adequate constraints, we should not be surprised when that action is eventually selected.</p>
+
+            <p><strong>The agent did not violate the laws of its environment. It executed a transition that the environment permitted.</strong></p>
+
+            <p>Of course, useful agents often need access to consequential actions. A database agent must modify data. A coding agent may need shell access. A robot must affect the physical world. The solution is therefore not to eliminate every potentially dangerous action, but to control when and how such actions can be executed.</p>
+
+            <p>Safety should be built into the system through:</p>
+
+            <ul>
+                <li>explicit action preconditions</li>
+                <li>restricted permissions</li>
+                <li>state invariants</li>
+                <li>independent runtime checks</li>
+                <li>rollback and recovery mechanisms</li>
+                <li>(when possible) human authorization at critical commitment points</li>
+            </ul>
+
+            <p>Expecting an agent to simply "choose to be safe" is not a safety architecture.</p>
+
+            <p>Anthropomorphic language also misplaces responsibility. Calling an agent malicious or dishonest turns a system failure into a story about the agent's character. It distracts from the questions that actually matter:</p>
+
+            <p><strong>Why was the action available? Why was it applicable in that state? Why was there no effective constraint? Why could the resulting harm not be detected or reversed?</strong></p>
+        </article>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2026 Michael Katz. All rights reserved.</p>
+            <div class="social-links">
+                <a href="https://scholar.google.com/citations?user=pltkfcMAAAAJ&hl=en" aria-label="Google Scholar">🎓 Scholar</a>
+                <a href="https://github.com/ctpelok77/" aria-label="GitHub">💻 GitHub</a>
+                <a href="https://www.linkedin.com/in/katzmichael/" aria-label="LinkedIn">💼 LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../../js/main.js"></script>
+</body>
+</html>
